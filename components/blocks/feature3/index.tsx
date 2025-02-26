@@ -49,38 +49,42 @@ export default function Feature3({ section }: { section: SectionType }) {
                         <p className="text-sm">{item.description}</p>
                       </div>
                     </div>
-                    {item.image && (
-                      <div className="mt-6 block border bg-muted/50 px-4 py-6 lg:hidden">
-                        <div className="aspect-video">
-                          <img
-                            src={item.image?.src}
-                            alt={item.image?.alt || item.title}
-                            className="h-full w-full rounded-md border object-cover shadow"
-                          />
-                        </div>
+                    <div className="mt-6 block border bg-muted/50 px-4 py-6 lg:hidden">
+                      <div className="aspect-video">
+                        <iframe
+                          width="100%"
+                          height="100%"
+                          src="https://www.youtube.com/embed/Vkyy6-6psRU"
+                          title={item.title || "YouTube video"}
+                          frameBorder="0"
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                          allowFullScreen
+                          className="rounded-md border shadow"
+                        ></iframe>
                       </div>
-                    )}
+                    </div>
                   </TabsTrigger>
                 );
               })}
             </TabsList>
             <div className="mt-8 hidden rounded-xl lg:block">
               {section.items?.map((item, index) => {
-                if (!item.image) return null;
-
                 return (
                   <TabsContent
                     key={index}
                     value={`tab-${index + 1}`}
                     className="aspect-video"
                   >
-                    {item.image && (
-                      <img
-                        src={item.image.src}
-                        alt={item.image.alt || item.title}
-                        className="h-full w-full rounded-xl border object-cover shadow"
-                      />
-                    )}
+                    <iframe
+                      width="100%"
+                      height="100%"
+                      src="https://www.youtube.com/embed/Vkyy6-6psRU"
+                      title={item.title || "YouTube video"}
+                      frameBorder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                      className="rounded-xl border shadow"
+                    ></iframe>
                   </TabsContent>
                 );
               })}

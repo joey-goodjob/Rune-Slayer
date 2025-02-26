@@ -1,0 +1,309 @@
+{
+  "template": "rune-slayer-template-one",
+  "theme": "dark",
+  "header": {
+    "brand": {
+      "title": "Rune Slayer",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Rune Slayer"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Features",
+          "url": "/#feature",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "Gameplay",
+          "url": "/#gameplay",
+          "icon": "MdGames"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Play Now",
+        "url": "https://roblox.com/games/runeslayer",
+        "target": "_blank",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Survive and Thrive in an Open World RPG Rune Slayer",
+    "highlight_text": "Rune Slayer",
+    "description": "Rune Slayer is an immersive open-world RPG on Roblox.<br/>Create allies and grow stronger to survive in the wild.",
+    "announcement": {
+      "label": "2025",
+      "title": "🎮 Now Available on Roblox",
+      "url": "/#gameplay"
+    },
+
+    "show_happy_users": false,
+    "show_badge": false
+  },
+
+  "introduce": {
+    "name": "introduce",
+    "title": "What is Rune Slayer",
+    "label": "Introduce",
+    "description": "Rune Slayer is an immersive open-world RPG experience on Roblox where players forge alliances and strengthen their characters to survive in a dangerous wilderness. The world of Rune Slayer is filled with mystical runes that grant extraordinary powers to those who can master them.",
+    "image": {
+      "src": "imgs/1122.png"
+    },
+    "items": [
+      {
+        "title": "Character Development",
+        "description": "Create a unique character with different races and classes, each with distinct abilities and playstyles.",
+        "icon": "RiUserStarLine"
+      },
+      {
+        "title": "Open World Adventure",
+        "description": "Explore a vast world filled with quests, monsters, and hidden treasures.",
+        "icon": "RiMapPinLine"
+      },
+      {
+        "title": "Complex Combat",
+        "description": "Master a skill-based combat system with attacks, blocks, and special abilities.",
+        "icon": "RiSwordLine"
+      }
+    ]
+  },
+
+  "usage": {
+    "name": "gameplay",
+    "title": "How To Play Rune Slayer",
+    "description": "Master the basics and become a legendary adventurer in four steps:",
+    "image": {
+      "src": "/imgs/features/gameplay.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Create Your Character",
+        "description": "Begin with a random race and choose your starting class. Each offers unique abilities and playstyles.",
+        "image": {
+          "src": "/imgs/features/character-creation.png"
+        }
+      },
+      {
+        "title": "Complete Quests",
+        "description": "Take on quests from NPCs (yellow question marks) or the Adventurer's Guild board for rewards.",
+        "image": {
+          "src": "/imgs/features/quests.png"
+        }
+      },
+      {
+        "title": "Master Game Systems",
+        "description": "Learn fishing, crafting, pet taming, and combat mechanics to survive and thrive in the world.",
+        "image": {
+          "src": "/imgs/features/systems.png"
+        }
+      },
+      {
+        "title": "Join The Community",
+        "description": "Team up with other players, join guilds, and participate in PvP to become a legend.",
+        "image": {
+          "src": "/imgs/features/community.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Why Rune Slayer Will Captivate You",
+    "description": "Choose your character class wisely based on your playstyle",
+    "items": [
+      {
+        "title": "Dynamic Open World",
+        "description": "Explore diverse landscapes filled with hidden treasures, dangerous creatures, and breathtaking vistas",
+        "icon": "RiLandscapeLine"
+      },
+      {
+        "title": "Deep Progression System",
+        "description": "Develop your character through multiple classes, skills, and gear upgrades",
+        "icon": "RiSwordLine"
+      },
+      {
+        "title": "Strategic Combat",
+        "description": "Master a skill-based combat system where timing, positioning, and technique matter",
+        "icon": "RiShieldLine"
+      },
+      {
+        "title": "Rich Crafting Economy",
+        "description": "Gather resources, discover recipes, and forge powerful equipment",
+        "icon": "RiHammerLine"
+      },
+      {
+        "title": "Thrilling Pet System",
+        "description": "Tame over 15 different creatures with unique abilities to aid your adventures",
+        "icon": "RiEmotionLine"
+      },
+      {
+        "title": "Balanced PvP Experience",
+        "description": "Test your skills against other players in high-stakes encounters",
+        "icon": "RiSwordFill"
+      }
+    ]
+  },
+
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Frequently Asked Questions About Rune Slayer",
+    "description": "Have another question? Join our Discord or visit the community Trello board.",
+    "items": [
+      {
+        "title": "How do I reset my bounty in the game?",
+        "description": "Visit Lockmeier NPC outside the Wayshire Inn to reset your bounty. Low bounties cost a few silver coins, while higher bounties may cost several gold coins."
+      },
+      {
+        "title": "What are the best races to choose in Rune Slayer?",
+        "description": "While races are initially randomly assigned, the top-tier races include Dullahan, Slime, Ailuran, and Elf. You can reroll your race for 150 Robux if desired."
+      },
+      {
+        "title": "How does the pet taming system work?",
+        "description": "Different pets require specific items to tame. For example, Slimes need Slime Chunks, Deer need Apples, and Wolves need Raw Deer Meat. There's a 5-minute cooldown between taming attempts, which resets upon player death."
+      },
+      {
+        "title": "What's the best class for beginners?",
+        "description": "Priest (S-tier) is considered the best overall class due to powerful healing abilities. For combat-focused beginners, Striker (A-tier) offers good damage and PvP capabilities, while Archer (A-tier) is excellent for ranged combat and PvE content."
+      },
+      {
+        "title": "How do I start fishing in the game?",
+        "description": "Purchase a fishing rod and bait from Simon The Fisherman south of Wayshire. Equip the rod, cast your line, and click when you see ripples on the water surface. Different baits have varying consumption chances."
+      },
+      {
+        "title": "How does the crafting system work?",
+        "description": "Basic copper items can be crafted at the blacksmith NPC east of Wayshire. Use furnaces to create ingots and crafting tables for advanced items. New recipes unlock as you discover resources in the world."
+      }
+    ]
+  },
+
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Rune Slayer",
+      "description": "Rune Slayer is an open-world RPG on Roblox where players create allies and grow stronger to survive in the wild.",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Rune Slayer"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • Rune Slayer All rights reserved.",
+    "nav": {
+      "items": [
+        {
+          "title": "About",
+          "children": [
+            {
+              "title": "Features",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "Gameplay",
+              "url": "/#gameplay",
+              "target": "_self"
+            },
+            {
+              "title": "Community",
+              "url": "/#community",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "children": [
+            {
+              "title": "Controls Guide",
+              "url": "/controls-guide",
+              "target": "_self"
+            },
+            {
+              "title": "Classes & Races",
+              "url": "/classes-and-races",
+              "target": "_self"
+            },
+            {
+              "title": "Pet Taming Guide",
+              "url": "/pet-taming-guide",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Community",
+          "children": [
+            {
+              "title": "Discord Server",
+              "url": "https://discord.gg/runeslayer",
+              "target": "_blank"
+            },
+            {
+              "title": "Trello Board",
+              "url": "https://trello.com/runeslayer",
+              "target": "_blank"
+            },
+            {
+              "title": "Roblox Group",
+              "url": "https://roblox.com/groups/runeslayer",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/runeslayergame",
+          "target": "_blank"
+        },
+        {
+          "title": "Youtube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Discord",
+          "icon": "RiDiscordFill",
+          "url": "https://discord.gg/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Roblox",
+          "icon": "SiRoblox",
+          "url": "https://roblox.com/games/runeslayer",
+          "target": "_blank"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}

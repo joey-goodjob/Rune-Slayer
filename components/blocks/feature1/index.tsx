@@ -28,7 +28,7 @@ export default function Feature1({ section }: { section: SectionType }) {
                 {section.description}
               </p>
             )}
-            <ul className="flex flex-col justify-center gap-y-8">
+            {/* <ul className="flex flex-col justify-center gap-y-8">
               {section.items?.map((item, i) => (
                 <li key={i} className="flex">
                   {item.icon && (
@@ -47,7 +47,64 @@ export default function Feature1({ section }: { section: SectionType }) {
                   </div>
                 </li>
               ))}
-            </ul>
+            </ul> */}
+
+            {/* 添加特性标签区域 */}
+            <div className="mt-6 flex flex-col gap-3">
+              {/* 第一行标签 */}
+              <div className="flex flex-wrap gap-2">
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  RPG
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Open World
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Roblox
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  PvP
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Multiplayer
+                </span>
+              </div>
+
+              {/* 第二行标签 */}
+              <div className="flex flex-wrap gap-2">
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Fantasy
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Pet Taming
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Crafting
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Character Classes
+                </span>
+              </div>
+
+              {/* 第三行标签 */}
+              <div className="flex flex-wrap gap-2">
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Quests
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Combat
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Roblox
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Races
+                </span>
+                <span className="px-3 py-1 text-sm bg-slate-900 text-white rounded-full">
+                  Adventure
+                </span>
+              </div>
+            </div>
           </div>
         </div>
       </div>

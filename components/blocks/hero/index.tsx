@@ -47,7 +47,7 @@ export default function Hero({ hero }: { hero: HeroType }) {
             {texts && texts.length > 1 ? (
               <h1 className="mx-auto mb-3 mt-4 max-w-3xl text-balance text-4xl font-bold lg:mb-7 lg:text-7xl">
                 {texts[0]}
-                <span className="bg-gradient-to-r from-primary via-primary to-primary bg-clip-text text-transparent">
+                <span className="bg-gradient-to-r from-green-500 via-black-400 to-blue-500 bg-clip-text text-transparent">
                   {highlightText}
                 </span>
                 {texts[1]}

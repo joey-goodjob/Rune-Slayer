@@ -20,4 +20,5 @@ export interface Hero {
   tip?: string;
   show_happy_users?: boolean;
   show_badge?: boolean;
+  background_image?: string;
 }

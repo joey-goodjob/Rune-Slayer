@@ -11,6 +11,7 @@ import Showcase from "@/components/blocks/showcase";
 import Stats from "@/components/blocks/stats";
 import Testimonial from "@/components/blocks/testimonial";
 import { getLandingPage } from "@/services/page";
+import Team from "@/components/blocks/team";
 
 export async function generateMetadata({
   params: { locale },
@@ -40,17 +41,15 @@ export default async function LandingPage({
   return (
     <>
       {page.hero && <Hero hero={page.hero} />}
-      {page.branding && <Branding section={page.branding} />}
+
       {page.introduce && <Feature1 section={page.introduce} />}
-      {page.benefit && <Feature2 section={page.benefit} />}
       {page.usage && <Feature3 section={page.usage} />}
+      {/* {page.benefit && <Feature2 section={page.benefit} />} */}
+      <Team />
+
       {page.feature && <Feature section={page.feature} />}
-      {page.showcase && <Showcase section={page.showcase} />}
-      {page.stats && <Stats section={page.stats} />}
-      {page.pricing && <Pricing pricing={page.pricing} />}
-      {page.testimonial && <Testimonial section={page.testimonial} />}
+
       {page.faq && <FAQ section={page.faq} />}
-      {page.cta && <CTA section={page.cta} />}
     </>
   );
 }

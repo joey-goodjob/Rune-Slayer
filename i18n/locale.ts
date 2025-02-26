@@ -4,7 +4,6 @@ export const locales = ["en", "zh"];
 
 export const localeNames: any = {
   en: "English",
-  zh: "中文",
 };
 
 export const defaultLocale = "en";
