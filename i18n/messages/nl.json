@@ -1,0 +1,40 @@
+{
+  "team2": {
+    "title": "Karakterklassen",
+    "subtitle": "Kies je karakterklasse verstandig op basis van je speelstijl",
+    "roles": {
+      "archer": "Afstandsschade Dealer",
+      "priest": "Genezer & Ondersteuner",
+      "thief": "DPS & Stealth",
+      "magician": "Afstandstovenaars",
+      "warrior": "Tank & Frontlinie",
+      "striker": "Melee Vechter"
+    },
+    "characters": {
+      "archer": {
+        "name": "Boogschutter",
+        "description": "De meest overpowered klasse. Boogschutters vallen aan vanaf afstand, veroorzaken pijlenregen, en de Beesttemmer specialisatie maakt ze overmachtig."
+      },
+      "priest": {
+        "name": "Priester",
+        "description": "Kan afstands-/melee-schade doen en genezen. Het genezen van anderen en hun huisdieren plaatst hen in een klasse apart. Een Priester met een krachtig huisdier is bijna onverslaanbaar."
+      },
+      "thief": {
+        "name": "Dief",
+        "description": "Snel, dodelijk, krachtig maar met weinig verdediging. Geweldig voor spelers die kunnen ontwijken en pareren. Blijf in de schaduwen en val aan op het juiste moment."
+      },
+      "magician": {
+        "name": "Magiër",
+        "description": "Krachtige afstandstovenaars die het beste zijn in groepen. Glazen kanonnen op zichzelf - combineer met krijgers of strikers voor het beste resultaat."
+      },
+      "warrior": {
+        "name": "Krijger",
+        "description": "Slaat hard toe en vangt schade op aan het front. Kan krachtige bepantsering dragen maar moet dicht bij de actie komen, wat gevaarlijk kan zijn."
+      },
+      "striker": {
+        "name": "Striker",
+        "description": "Minst gewenste klasse. Vertrouwt op snelheid om vuistslagen uit te delen maar mist verdediging. Gemakkelijk uitgeschakeld door krachtige aanvallen. Heeft toekomstige buffs nodig."
+      }
+    }
+  }
+}

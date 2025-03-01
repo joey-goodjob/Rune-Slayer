@@ -1,0 +1,295 @@
+{
+  "template": "rune-slayer",
+  "theme": "dark",
+  "header": {
+    "brand": {
+      "title": "Tueur de Runes",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Logo du Jeu Tueur de Runes"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Fonctionnalités de Tueur de Runes",
+          "url": "/#feature",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "Gameplay de Tueur de Runes",
+          "url": "/#gameplay",
+          "icon": "MdGames"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Jouer à Tueur de Runes Maintenant",
+        "url": "https://roblox.com/games/runeslayer",
+        "target": "_blank",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Survivez et Prospérez dans Tueur de Runes",
+    "highlight_text": "Tueur de Runes",
+    "description": "Tueur de Runes est un RPG immersif en monde ouvert sur Roblox.<br/>Créez des alliés dans Tueur de Runes et devenez plus fort pour survivre dans la nature sauvage.",
+    "announcement": {
+      "label": "2025",
+      "title": "🎮 Tueur de Runes Maintenant Disponible sur Roblox",
+      "url": "/#gameplay"
+    },
+
+    "show_happy_users": false,
+    "show_badge": false
+  },
+
+  "introduce": {
+    "name": "introduce",
+    "title": "Qu'est-ce que le Jeu Tueur de Runes",
+    "label": "Présentation de Tueur de Runes",
+    "description": "Tueur de Runes est une expérience RPG immersive en monde ouvert sur Roblox où les joueurs forgent des alliances et renforcent leurs personnages pour survivre dans une nature sauvage dangereuse. Le monde de Tueur de Runes est rempli de runes mystiques qui accordent des pouvoirs extraordinaires à ceux qui parviennent à les maîtriser. Rejoignez Tueur de Runes aujourd'hui !",
+    "image": {
+      "src": "imgs/1122.png"
+    },
+    "items": [
+      {
+        "title": "Développement de Personnage dans Tueur de Runes",
+        "description": "Créez un personnage unique dans Tueur de Runes avec différentes races et classes, chacune avec des capacités et des styles de jeu distincts.",
+        "icon": "RiUserStarLine"
+      },
+      {
+        "title": "Aventure en Monde Ouvert de Tueur de Runes",
+        "description": "Explorez un vaste monde de Tueur de Runes rempli de quêtes, de monstres et de trésors cachés.",
+        "icon": "RiMapPinLine"
+      },
+      {
+        "title": "Combat Complexe de Tueur de Runes",
+        "description": "Maîtrisez le système de combat basé sur les compétences de Tueur de Runes avec des attaques, des blocages et des capacités spéciales.",
+        "icon": "RiSwordLine"
+      }
+    ]
+  },
+
+  "usage": {
+    "name": "gameplay",
+    "title": "Comment Jouer à Tueur de Runes",
+    "description": "Maîtrisez les bases de Tueur de Runes et devenez un aventurier légendaire de Tueur de Runes en quatre étapes :",
+    "image": {
+      "src": "/imgs/features/gameplay.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Créez Votre Personnage de Tueur de Runes",
+        "description": "Commencez avec une race aléatoire dans Tueur de Runes et choisissez votre classe de départ. Chacune offre des capacités et des styles de jeu uniques.",
+        "image": {
+          "src": "/imgs/features/character-creation.png"
+        }
+      },
+      {
+        "title": "Complétez les Quêtes de Tueur de Runes",
+        "description": "Acceptez des quêtes de Tueur de Runes auprès des PNJ (points d'interrogation jaunes) ou du tableau de la Guilde des Aventuriers pour obtenir des récompenses.",
+        "image": {
+          "src": "/imgs/features/quests.png"
+        }
+      },
+      {
+        "title": "Maîtrisez les Systèmes de Jeu de Tueur de Runes",
+        "description": "Apprenez la pêche, l'artisanat, l'apprivoisement des familiers et les mécaniques de combat de Tueur de Runes pour survivre et prospérer dans le monde.",
+        "image": {
+          "src": "/imgs/features/systems.png"
+        }
+      },
+      {
+        "title": "Rejoignez La Communauté de Tueur de Runes",
+        "description": "Faites équipe avec d'autres joueurs de Tueur de Runes, rejoignez des guildes et participez au JcJ pour devenir une légende.",
+        "image": {
+          "src": "/imgs/features/community.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Pourquoi Tueur de Runes Vous Captivera",
+    "description": "Choisissez judicieusement votre classe de personnage de Tueur de Runes en fonction de votre style de jeu",
+    "items": [
+      {
+        "title": "Monde Ouvert Dynamique de Tueur de Runes",
+        "description": "Explorez divers paysages de Tueur de Runes remplis de trésors cachés, de créatures dangereuses et de panoramas à couper le souffle",
+        "icon": "RiLandscapeLine"
+      },
+      {
+        "title": "Système de Progression Profond de Tueur de Runes",
+        "description": "Développez votre personnage de Tueur de Runes à travers plusieurs classes, compétences et améliorations d'équipement",
+        "icon": "RiSwordLine"
+      },
+      {
+        "title": "Combat Stratégique de Tueur de Runes",
+        "description": "Maîtrisez le système de combat basé sur les compétences de Tueur de Runes où le timing, le positionnement et la technique sont importants",
+        "icon": "RiShieldLine"
+      },
+      {
+        "title": "Riche Économie d'Artisanat de Tueur de Runes",
+        "description": "Récoltez des ressources dans Tueur de Runes, découvrez des recettes et forgez des équipements puissants",
+        "icon": "RiHammerLine"
+      },
+      {
+        "title": "Système de Familiers Passionnant de Tueur de Runes",
+        "description": "Apprivoisez plus de 15 créatures différentes dans Tueur de Runes avec des capacités uniques pour aider vos aventures",
+        "icon": "RiEmotionLine"
+      },
+      {
+        "title": "Expérience JcJ Équilibrée de Tueur de Runes",
+        "description": "Testez vos compétences contre d'autres joueurs dans des rencontres à haut risque de Tueur de Runes",
+        "icon": "RiSwordFill"
+      }
+    ]
+  },
+
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Questions Fréquemment Posées sur Tueur de Runes",
+    "description": "Vous avez une autre question sur Tueur de Runes ? Rejoignez notre Discord Tueur de Runes ou visitez le tableau Trello de la communauté Tueur de Runes.",
+    "items": [
+      {
+        "title": "Comment réinitialiser ma prime dans Tueur de Runes ?",
+        "description": "Visitez le PNJ Lockmeier à l'extérieur de l'Auberge de Wayshire dans Tueur de Runes pour réinitialiser votre prime. Les primes basses coûtent quelques pièces d'argent, tandis que les primes plus élevées peuvent coûter plusieurs pièces d'or."
+      },
+      {
+        "title": "Quelles sont les meilleures races à choisir dans Tueur de Runes ?",
+        "description": "Bien que les races dans Tueur de Runes soient initialement attribuées au hasard, les races de haut niveau comprennent Dullahan, Slime, Ailuran et Elfe. Vous pouvez relancer votre race de Tueur de Runes pour 150 Robux si vous le souhaitez."
+      },
+      {
+        "title": "Comment fonctionne le système d'apprivoisement de familiers dans Tueur de Runes ?",
+        "description": "Différents familiers de Tueur de Runes nécessitent des objets spécifiques pour être apprivoisés. Par exemple, les Slimes ont besoin de Morceaux de Slime, les Cerfs ont besoin de Pommes et les Loups ont besoin de Viande de Cerf Crue. Il y a un temps de recharge de 5 minutes entre les tentatives d'apprivoisement dans Tueur de Runes, qui se réinitialise à la mort du joueur."
+      },
+      {
+        "title": "Quelle est la meilleure classe pour les débutants dans Tueur de Runes ?",
+        "description": "Le Prêtre (niveau S) est considéré comme la meilleure classe globale de Tueur de Runes en raison de ses puissantes capacités de guérison. Pour les débutants orientés combat dans Tueur de Runes, le Frappeur (niveau A) offre de bons dégâts et des capacités JcJ, tandis que l'Archer (niveau A) est excellent pour le combat à distance et le contenu JcE."
+      },
+      {
+        "title": "Comment commencer à pêcher dans Tueur de Runes ?",
+        "description": "Achetez une canne à pêche et des appâts auprès de Simon Le Pêcheur au sud de Wayshire dans Tueur de Runes. Équipez la canne, lancez votre ligne et cliquez lorsque vous voyez des ondulations à la surface de l'eau. Différents appâts de Tueur de Runes ont des chances de consommation variables."
+      },
+      {
+        "title": "Comment fonctionne le système d'artisanat dans Tueur de Runes ?",
+        "description": "Les objets de base en cuivre peuvent être fabriqués chez le PNJ forgeron à l'est de Wayshire dans Tueur de Runes. Utilisez des fourneaux pour créer des lingots et des tables d'artisanat pour les objets avancés. De nouvelles recettes se débloquent au fur et à mesure que vous découvrez des ressources dans le monde de Tueur de Runes."
+      }
+    ]
+  },
+
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Tueur de Runes",
+      "description": "Tueur de Runes est un RPG en monde ouvert sur Roblox où les joueurs créent des alliés et deviennent plus forts pour survivre dans la nature sauvage. Découvrez Tueur de Runes aujourd'hui !",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Tueur de Runes"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • Tueur de Runes Tous droits réservés.",
+    "nav": {
+      "items": [
+        {
+          "title": "À Propos de Tueur de Runes",
+          "children": [
+            {
+              "title": "Fonctionnalités",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "Gameplay",
+              "url": "/#gameplay",
+              "target": "_self"
+            },
+            {
+              "title": "Communauté",
+              "url": "/#community",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "Tueur de Runes X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/runeslayergame",
+          "target": "_blank"
+        },
+        {
+          "title": "Tueur de Runes Youtube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Tueur de Runes Discord",
+          "icon": "RiDiscordFill",
+          "url": "https://discord.gg/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Tueur de Runes Roblox",
+          "icon": "SiRoblox",
+          "url": "https://roblox.com/games/runeslayer",
+          "target": "_blank"
+        }
+      ]
+    }
+  },
+  "team2": {
+    "title": "Classes de Personnages",
+    "subtitle": "Choisissez judicieusement votre classe de personnage en fonction de votre style de jeu",
+    "roles": {
+      "archer": "Infligeur de Dégâts à Distance",
+      "priest": "Guérisseur & Soutien",
+      "thief": "DPS & Discrétion",
+      "magician": "Lanceur de Sorts à Distance",
+      "warrior": "Tank & Première Ligne",
+      "striker": "Combattant Corps à Corps"
+    },
+    "characters": {
+      "archer": {
+        "name": "Archer",
+        "description": "La classe la plus déséquilibrée. Les Archers attaquent à distance, provoquent des pluies de flèches, et la spécialisation Dompteur de Bêtes les rend surpuissants."
+      },
+      "priest": {
+        "name": "Prêtre",
+        "description": "Peut infliger des dégâts à distance/corps à corps et soigner. Soigner les autres et leur familier les place dans une ligue à part. Un Prêtre avec un familier puissant est presque invincible."
+      },
+      "thief": {
+        "name": "Voleur",
+        "description": "Rapide, mortel, puissant mais manque de défense. Idéal pour les joueurs qui peuvent esquiver et parer. Restez dans l'ombre et frappez au bon moment."
+      },
+      "magician": {
+        "name": "Magicien",
+        "description": "Puissants lanceurs de sorts à distance, meilleurs en groupe. Canons de verre seuls - associez-les avec des guerriers ou des frappeurs pour de meilleurs résultats."
+      },
+      "warrior": {
+        "name": "Guerrier",
+        "description": "Frappe fort et encaisse les dégâts en première ligne. Peut porter une armure puissante mais doit se rapprocher de l'action, ce qui peut être dangereux."
+      },
+      "striker": {
+        "name": "Frappeur",
+        "description": "Classe la moins désirable. S'appuie sur la vitesse pour délivrer des coups de poing mais manque de défense. Facilement éliminé par des attaques puissantes. Nécessite des améliorations futures."
+      }
+    }
+  }
+}

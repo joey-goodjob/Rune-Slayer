@@ -1,0 +1,295 @@
+{
+  "template": "rune-slayer",
+  "theme": "dark",
+  "header": {
+    "brand": {
+      "title": "Runenschlächter",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Runenschlächter Spiel Logo"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Runenschlächter Funktionen",
+          "url": "/#feature",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "Runenschlächter Spielablauf",
+          "url": "/#gameplay",
+          "icon": "MdGames"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Runenschlächter Jetzt Spielen",
+        "url": "https://roblox.com/games/runeslayer",
+        "target": "_blank",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Überlebe und Gedeihe in Runenschlächter",
+    "highlight_text": "Runenschlächter",
+    "description": "Runenschlächter ist ein immersives Open-World-RPG auf Roblox.<br/>Schließe Bündnisse in Runenschlächter und werde stärker, um in der Wildnis zu überleben.",
+    "announcement": {
+      "label": "2025",
+      "title": "🎮 Runenschlächter Jetzt auf Roblox Verfügbar",
+      "url": "/#gameplay"
+    },
+
+    "show_happy_users": false,
+    "show_badge": false
+  },
+
+  "introduce": {
+    "name": "introduce",
+    "title": "Was ist das Runenschlächter Spiel",
+    "label": "Einführung in Runenschlächter",
+    "description": "Runenschlächter ist ein immersives Open-World-RPG-Erlebnis auf Roblox, in dem Spieler Allianzen schmieden und ihre Charaktere stärken, um in einer gefährlichen Wildnis zu überleben. Die Welt von Runenschlächter ist mit mystischen Runen gefüllt, die denjenigen, die sie meistern können, außergewöhnliche Kräfte verleihen. Tritt Runenschlächter noch heute bei!",
+    "image": {
+      "src": "imgs/1122.png"
+    },
+    "items": [
+      {
+        "title": "Runenschlächter Charakterentwicklung",
+        "description": "Erstelle einen einzigartigen Charakter in Runenschlächter mit verschiedenen Rassen und Klassen, jede mit eigenen Fähigkeiten und Spielstilen.",
+        "icon": "RiUserStarLine"
+      },
+      {
+        "title": "Runenschlächter Open-World-Abenteuer",
+        "description": "Erkunde eine weitläufige Runenschlächter-Welt voller Quests, Monster und versteckter Schätze.",
+        "icon": "RiMapPinLine"
+      },
+      {
+        "title": "Runenschlächter Komplexes Kampfsystem",
+        "description": "Meistere das fähigkeitsbasierte Kampfsystem von Runenschlächter mit Angriffen, Blocks und Spezialfähigkeiten.",
+        "icon": "RiSwordLine"
+      }
+    ]
+  },
+
+  "usage": {
+    "name": "gameplay",
+    "title": "Wie man Runenschlächter spielt",
+    "description": "Beherrsche die Grundlagen von Runenschlächter und werde in vier Schritten ein legendärer Runenschlächter-Abenteurer:",
+    "image": {
+      "src": "/imgs/features/gameplay.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Erstelle Deinen Runenschlächter-Charakter",
+        "description": "Beginne mit einer zufälligen Rasse in Runenschlächter und wähle deine Anfangsklasse. Jede bietet einzigartige Fähigkeiten und Spielstile.",
+        "image": {
+          "src": "/imgs/features/character-creation.png"
+        }
+      },
+      {
+        "title": "Schließe Runenschlächter-Quests ab",
+        "description": "Übernimm Runenschlächter-Quests von NPCs (gelbe Fragezeichen) oder der Abenteurergilde-Tafel für Belohnungen.",
+        "image": {
+          "src": "/imgs/features/quests.png"
+        }
+      },
+      {
+        "title": "Meistere Runenschlächter-Spielsysteme",
+        "description": "Lerne Runenschlächter-Angeln, -Handwerk, -Haustierbändigung und -Kampfmechaniken, um in der Welt zu überleben und zu gedeihen.",
+        "image": {
+          "src": "/imgs/features/systems.png"
+        }
+      },
+      {
+        "title": "Tritt der Runenschlächter-Gemeinschaft bei",
+        "description": "Schließe dich mit anderen Runenschlächter-Spielern zusammen, tritt Gilden bei und nimm an PvP teil, um eine Legende zu werden.",
+        "image": {
+          "src": "/imgs/features/community.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Warum Runenschlächter Dich fesseln wird",
+    "description": "Wähle deine Runenschlächter-Charakterklasse weise basierend auf deinem Spielstil",
+    "items": [
+      {
+        "title": "Runenschlächter Dynamische Offene Welt",
+        "description": "Erkunde vielfältige Runenschlächter-Landschaften voller versteckter Schätze, gefährlicher Kreaturen und atemberaubender Ausblicke",
+        "icon": "RiLandscapeLine"
+      },
+      {
+        "title": "Runenschlächter Tiefes Fortschrittssystem",
+        "description": "Entwickle deinen Runenschlächter-Charakter durch mehrere Klassen, Fähigkeiten und Ausrüstungsverbesserungen",
+        "icon": "RiSwordLine"
+      },
+      {
+        "title": "Runenschlächter Strategischer Kampf",
+        "description": "Meistere das fähigkeitsbasierte Kampfsystem von Runenschlächter, bei dem Timing, Positionierung und Technik wichtig sind",
+        "icon": "RiShieldLine"
+      },
+      {
+        "title": "Runenschlächter Reiche Handwerks-Wirtschaft",
+        "description": "Sammle Ressourcen in Runenschlächter, entdecke Rezepte und schmiede mächtige Ausrüstung",
+        "icon": "RiHammerLine"
+      },
+      {
+        "title": "Runenschlächter Spannendes Haustiersystem",
+        "description": "Zähme über 15 verschiedene Kreaturen in Runenschlächter mit einzigartigen Fähigkeiten, die deine Abenteuer unterstützen",
+        "icon": "RiEmotionLine"
+      },
+      {
+        "title": "Runenschlächter Ausgewogenes PvP-Erlebnis",
+        "description": "Teste deine Fähigkeiten gegen andere Spieler in riskanten Runenschlächter-Begegnungen",
+        "icon": "RiSwordFill"
+      }
+    ]
+  },
+
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Häufig Gestellte Fragen über Runenschlächter",
+    "description": "Hast du eine weitere Frage zu Runenschlächter? Tritt unserem Runenschlächter Discord bei oder besuche das Runenschlächter Community Trello-Board.",
+    "items": [
+      {
+        "title": "Wie setze ich mein Kopfgeld in Runenschlächter zurück?",
+        "description": "Besuche den NPC Lockmeier außerhalb des Wayshire Gasthauses in Runenschlächter, um dein Kopfgeld zurückzusetzen. Niedrige Kopfgelder kosten einige Silbermünzen, während höhere Kopfgelder mehrere Goldmünzen kosten können."
+      },
+      {
+        "title": "Was sind die besten Rassen in Runenschlächter?",
+        "description": "Obwohl Rassen in Runenschlächter anfangs zufällig zugewiesen werden, gehören zu den Top-Tier-Rassen Dullahan, Schleim, Ailuran und Elf. Du kannst deine Runenschlächter-Rasse für 150 Robux neu würfeln, wenn gewünscht."
+      },
+      {
+        "title": "Wie funktioniert das Haustierbändigungssystem in Runenschlächter?",
+        "description": "Verschiedene Runenschlächter-Haustiere benötigen spezifische Gegenstände zur Bändigung. Schleime benötigen beispielsweise Schleimbrocken, Hirsche benötigen Äpfel und Wölfe benötigen Rohes Hirschfleisch. Es gibt eine 5-Minuten-Abklingzeit zwischen Bändigungsversuchen in Runenschlächter, die bei Spielertod zurückgesetzt wird."
+      },
+      {
+        "title": "Was ist die beste Klasse für Anfänger in Runenschlächter?",
+        "description": "Priester (S-Tier) wird aufgrund mächtiger Heilfähigkeiten als beste Gesamtklasse in Runenschlächter angesehen. Für kampforientierte Anfänger in Runenschlächter bietet Striker (A-Tier) guten Schaden und PvP-Fähigkeiten, während Bogenschütze (A-Tier) hervorragend für Fernkampf und PvE-Inhalte ist."
+      },
+      {
+        "title": "Wie fange ich mit dem Angeln in Runenschlächter an?",
+        "description": "Kaufe eine Angelrute und Köder von Simon dem Fischer südlich von Wayshire in Runenschlächter. Rüste die Rute aus, wirf deine Leine aus und klicke, wenn du Kräuselungen auf der Wasseroberfläche siehst. Verschiedene Runenschlächter-Köder haben unterschiedliche Verbrauchschancen."
+      },
+      {
+        "title": "Wie funktioniert das Handwerkssystem in Runenschlächter?",
+        "description": "Grundlegende Kupfergegenstände können beim Schmied-NPC östlich von Wayshire in Runenschlächter hergestellt werden. Nutze Öfen, um Barren herzustellen, und Handwerkstische für fortgeschrittene Gegenstände. Neue Rezepte werden freigeschaltet, wenn du Ressourcen in der Runenschlächter-Welt entdeckst."
+      }
+    ]
+  },
+
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Runenschlächter",
+      "description": "Runenschlächter ist ein Open-World-RPG auf Roblox, in dem Spieler Verbündete erschaffen und stärker werden, um in der Wildnis zu überleben. Erlebe Runenschlächter noch heute!",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Runenschlächter"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • Runenschlächter Alle Rechte vorbehalten.",
+    "nav": {
+      "items": [
+        {
+          "title": "Über Runenschlächter",
+          "children": [
+            {
+              "title": "Funktionen",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "Spielablauf",
+              "url": "/#gameplay",
+              "target": "_self"
+            },
+            {
+              "title": "Gemeinschaft",
+              "url": "/#community",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "Runenschlächter X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/runeslayergame",
+          "target": "_blank"
+        },
+        {
+          "title": "Runenschlächter Youtube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Runenschlächter Discord",
+          "icon": "RiDiscordFill",
+          "url": "https://discord.gg/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Runenschlächter Roblox",
+          "icon": "SiRoblox",
+          "url": "https://roblox.com/games/runeslayer",
+          "target": "_blank"
+        }
+      ]
+    }
+  },
+  "team2": {
+    "title": "Charakter-Klassen",
+    "subtitle": "Wähle deine Charakterklasse weise basierend auf deinem Spielstil",
+    "roles": {
+      "archer": "Fernkampf-Schadensverursacher",
+      "priest": "Heiler & Unterstützer",
+      "thief": "DPS & Heimlichkeit",
+      "magician": "Fernkampf-Zauberwirker",
+      "warrior": "Tank & Frontlinie",
+      "striker": "Nahkampf-Kämpfer"
+    },
+    "characters": {
+      "archer": {
+        "name": "Bogenschütze",
+        "description": "Die übermächtigste Klasse. Bogenschützen greifen aus der Ferne an, verursachen Pfeilregen, und die Bestienmeister-Spezialisierung macht sie übermächtig."
+      },
+      "priest": {
+        "name": "Priester",
+        "description": "Kann Fernkampf-/Nahkampf-Schaden verursachen und heilen. Die Heilung anderer und ihres Haustieres setzt sie in eine eigene Liga. Ein Priester mit einem mächtigen Haustier ist fast unbesiegbar."
+      },
+      "thief": {
+        "name": "Dieb",
+        "description": "Schnell, tödlich, mächtig, aber fehlt Verteidigung. Großartig für Spieler, die ausweichen und parieren können. Halte dich im Schatten und schlage im richtigen Moment zu."
+      },
+      "magician": {
+        "name": "Magier",
+        "description": "Mächtige Fernkampf-Zauberwirker, am besten in Gruppen. Glaskanonen auf eigene Faust - kombiniere sie mit Kriegern oder Strikern für beste Ergebnisse."
+      },
+      "warrior": {
+        "name": "Krieger",
+        "description": "Schlägt hart zu und hält Schaden an der Frontlinie aus. Kann mächtige Rüstung tragen, muss aber nah an die Action heran, was gefährlich sein kann."
+      },
+      "striker": {
+        "name": "Striker",
+        "description": "Am wenigsten begehrte Klasse. Verlässt sich auf Geschwindigkeit, um Faustschläge zu liefern, aber fehlt Verteidigung. Wird leicht durch mächtige Angriffe besiegt. Benötigt zukünftige Buffs."
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "team2": {
+    "title": "Charakterklassen",
+    "subtitle": "Wähle deine Charakterklasse je nach Spielstil weise",
+    "roles": {
+      "archer": "Fernkampf-Schadensverursacher",
+      "priest": "Heiler & Unterstützer",
+      "thief": "Schadensverursacher & Heimlichkeit",
+      "magician": "Fernkampf-Zauberwirker",
+      "warrior": "Tank & Frontlinie",
+      "striker": "Nahkampf-Kämpfer"
+    },
+    "characters": {
+      "archer": {
+        "name": "Bogenschütze",
+        "description": "Die mächtigste Klasse. Bogenschützen greifen aus der Ferne an, verursachen Pfeilregen, und die Tierbändiger-Spezialisierung macht sie übermächtig."
+      },
+      "priest": {
+        "name": "Priester",
+        "description": "Kann Fernkampf-/Nahkampfschaden verursachen und heilen. Das Heilen anderer und ihrer Haustiere bringt sie in eine eigene Liga. Ein Priester mit einem mächtigen Haustier ist fast unbesiegbar."
+      },
+      "thief": {
+        "name": "Dieb",
+        "description": "Schnell, tödlich, mächtig, aber mit wenig Verteidigung. Großartig für Spieler, die ausweichen und parieren können. Halte dich im Schatten und schlage im richtigen Moment zu."
+      },
+      "magician": {
+        "name": "Magier",
+        "description": "Mächtige Fernkampf-Zauberwirker, die in Gruppen am besten sind. Allein sind sie Glaskanonen - am besten mit Kriegern oder Strikern kombinieren für beste Ergebnisse."
+      },
+      "warrior": {
+        "name": "Krieger",
+        "description": "Schlägt hart zu und hält an der Front Schaden aus. Kann mächtige Rüstung tragen, muss aber nah am Geschehen sein, was gefährlich sein kann."
+      },
+      "striker": {
+        "name": "Striker",
+        "description": "Am wenigsten begehrte Klasse. Verlässt sich auf Geschwindigkeit für Faustschläge, hat aber wenig Verteidigung. Wird leicht von mächtigen Angriffen ausgeschaltet. Benötigt zukünftige Verstärkungen."
+      }
+    }
+  }
+}

@@ -1,559 +1,225 @@
 {
-  "template": "shipany-template-one",
-  "theme": "light",
+  "template": "rune-slayer",
+  "theme": "dark",
   "header": {
     "brand": {
-      "title": "ShipAny",
+      "title": "符文杀手",
       "logo": {
         "src": "/logo.png",
-        "alt": "ShipAny"
+        "alt": "符文杀手游戏标志"
       },
-      "url": "/zh"
+      "url": "/"
     },
     "nav": {
       "items": [
         {
-          "title": "功能特点",
+          "title": "符文杀手特色",
           "url": "/#feature",
           "icon": "HiOutlineSparkles"
         },
         {
-          "title": "定价",
-          "url": "/#pricing",
-          "icon": "MdPayment"
-        },
-        {
-          "title": "案例展示",
-          "url": "/#showcase",
-          "icon": "BiCube",
-          "children": [
-            {
-              "title": "AI壁纸商店",
-              "description": "AI壁纸生成器",
-              "icon": "MdOutlineWallpaper",
-              "url": "https://aiwallpaper.shop",
-              "target": "_blank"
-            },
-            {
-              "title": "AI封面生成器",
-              "description": "AI封面生成器",
-              "icon": "",
-              "url": "https://aicover.design",
-              "target": "_blank"
-            }
-          ]
+          "title": "符文杀手玩法",
+          "url": "/#gameplay",
+          "icon": "MdGames"
         }
       ]
     },
     "buttons": [
       {
-        "title": "获取 ShipAny",
-        "url": "https://shipany.ai",
+        "title": "立即体验符文杀手",
+        "url": "https://roblox.com/games/runeslayer",
         "target": "_blank",
         "variant": "link",
         "icon": "RiArrowRightUpLine"
       }
     ],
-    "show_sign": true,
+    "show_sign": false,
     "show_theme": true,
     "show_locale": true
   },
   "hero": {
-    "title": "几小时内快速构建 AI 创业项目，而不是几天",
-    "highlight_text": "Ship Any",
-    "description": "ShipAny 是一个用于构建 AI SaaS 创业项目的 NextJS 模板。<br/>通过丰富的模板和组件快速启动。",
+    "title": "在符文杀手世界中生存与成长",
+    "highlight_text": "符文杀手",
+    "description": "符文杀手是Roblox平台上的一款沉浸式开放世界RPG。<br/>在符文杀手中结交伙伴，变得更强大以在野外生存。",
     "announcement": {
       "label": "2025",
-      "title": "🎉 新年快乐",
-      "url": "/#pricing"
+      "title": "🎮 符文杀手现已在Roblox上线",
+      "url": "/#gameplay"
     },
-    "tip": "🎁 2025年前五折优惠",
-    "buttons": [
-      {
-        "title": "立即开始",
-        "icon": "RiFlashlightFill",
-        "url": "/#pricing",
-        "target": "_self",
-        "variant": "default"
-      },
-      {
-        "title": "加入 Discord",
-        "icon": "RiDiscordFill",
-        "url": "https://discord.gg/HQNnrzjZQS",
-        "target": "_blank",
-        "variant": "outline"
-      }
-    ],
-    "show_happy_users": true,
+
+    "show_happy_users": false,
     "show_badge": false
   },
-  "branding": {
-    "title": "ShipAny 建立在巨人的肩膀上",
-    "items": [
-      {
-        "title": "Next.js",
-        "image": {
-          "src": "/imgs/logos/nextjs.svg",
-          "alt": "Next.js"
-        }
-      },
-      {
-        "title": "React",
-        "image": {
-          "src": "/imgs/logos/react.svg",
-          "alt": "React"
-        }
-      },
-      {
-        "title": "TailwindCSS",
-        "image": {
-          "src": "/imgs/logos/tailwindcss.svg",
-          "alt": "TailwindCSS"
-        }
-      },
-      {
-        "title": "Shadcn/UI",
-        "image": {
-          "src": "/imgs/logos/shadcn.svg",
-          "alt": "Shadcn/UI"
-        }
-      },
-      {
-        "title": "Vercel",
-        "image": {
-          "src": "/imgs/logos/vercel.svg",
-          "alt": "Vercel"
-        }
-      }
-    ]
-  },
+
   "introduce": {
     "name": "introduce",
-    "title": "什么是 ShipAny",
-    "label": "介绍",
-    "description": "ShipAny 是一个用于构建 AI SaaS 创业项目的 NextJS 模板，内置多种模板和组件。",
+    "title": "什么是符文杀手游戏",
+    "label": "符文杀手介绍",
+    "description": "符文杀手是Roblox平台上一款沉浸式开放世界RPG体验，玩家可以在这里建立联盟并强化自己的角色，以在危险的荒野中生存。符文杀手的世界充满了神秘的符文，这些符文能赋予掌握它们的人非凡的力量。今天就加入符文杀手吧！",
     "image": {
-      "src": "/imgs/features/1.png"
+      "src": "imgs/1122.png"
     },
     "items": [
       {
-        "title": "即用型模板",
-        "description": "从数十个生产就绪的 AI SaaS 模板中选择，快速启动您的项目。",
-        "icon": "RiNextjsFill"
+        "title": "符文杀手角色发展",
+        "description": "在符文杀手中创建独特角色，选择不同种族和职业，每种都有独特的能力和游戏风格。",
+        "icon": "RiUserStarLine"
       },
       {
-        "title": "基础设施配置",
-        "description": "立即获取内置最佳实践的可扩展基础设施。",
-        "icon": "RiDatabase2Line"
+        "title": "符文杀手开放世界冒险",
+        "description": "探索符文杀手广阔的世界，完成任务，击败怪物，发现隐藏宝藏。",
+        "icon": "RiMapPinLine"
       },
       {
-        "title": "快速部署",
-        "description": "在几小时内将您的 AI SaaS 应用部署到生产环境，而不是几天。",
-        "icon": "RiCloudyFill"
+        "title": "符文杀手复杂战斗系统",
+        "description": "掌握符文杀手基于技能的战斗系统，包括攻击、格挡和特殊能力。",
+        "icon": "RiSwordLine"
       }
     ]
   },
-  "benefit": {
-    "name": "benefit",
-    "title": "为什么选择 ShipAny",
-    "label": "优势",
-    "description": "获取启动 AI 创业所需的一切 - 从即用型模板到技术支持。",
-    "items": [
-      {
-        "title": "完整框架",
-        "description": "基于 Next.js 构建，集成身份验证、支付和 AI 功能 - 一切开箱即用。",
-        "icon": "RiNextjsFill",
-        "image": {
-          "src": "/imgs/features/2.png"
-        }
-      },
-      {
-        "title": "丰富的模板库",
-        "description": "选择各种 AI SaaS 模板来启动您的项目 - 聊天机器人、图像生成等。",
-        "icon": "RiClapperboardAiLine",
-        "image": {
-          "src": "/imgs/features/3.png"
-        }
-      },
-      {
-        "title": "技术指导",
-        "description": "获得专门支持并加入我们的开发者社区，确保您成功启动。",
-        "icon": "RiCodeFill",
-        "image": {
-          "src": "/imgs/features/4.png"
-        }
-      }
-    ]
-  },
+
   "usage": {
-    "name": "usage",
-    "title": "如何使用 ShipAny 启动项目",
-    "description": "通过三个简单步骤启动您的 AI SaaS 创业项目：",
+    "name": "gameplay",
+    "title": "如何玩符文杀手",
+    "description": "掌握符文杀手的基础知识，通过四个步骤成为传奇符文杀手冒险家：",
     "image": {
-      "src": "/imgs/features/1.png"
+      "src": "/imgs/features/gameplay.png"
     },
     "image_position": "left",
     "text_align": "center",
     "items": [
       {
-        "title": "获取 ShipAny",
-        "description": "一次性付款购买 ShipAny。查收邮件获取代码和文档。",
+        "title": "创建你的符文杀手角色",
+        "description": "在符文杀手中从随机种族开始，选择你的起始职业。每种职业都提供独特的能力和游戏风格。",
         "image": {
-          "src": "/imgs/features/5.png"
+          "src": "/imgs/features/character-creation.png"
         }
       },
       {
-        "title": "开始您的项目",
-        "description": "阅读文档并克隆 ShipAny 代码。开始构建您的 AI SaaS 创业项目。",
+        "title": "完成符文杀手任务",
+        "description": "接受符文杀手中NPC（黄色问号）或冒险者公会任务板上的任务，获取奖励。",
         "image": {
-          "src": "/imgs/features/6.png"
+          "src": "/imgs/features/quests.png"
         }
       },
       {
-        "title": "定制您的项目",
-        "description": "使用您的数据和内容修改模板。满足特定的 AI 功能需求。",
+        "title": "掌握符文杀手游戏系统",
+        "description": "学习符文杀手的钓鱼、制作、宠物驯服和战斗机制，在这个世界中生存并茁壮成长。",
         "image": {
-          "src": "/imgs/features/7.png"
+          "src": "/imgs/features/systems.png"
         }
       },
       {
-        "title": "部署到生产环境",
-        "description": "通过几个步骤将项目部署到生产环境，立即开始服务客户。",
+        "title": "加入符文杀手社区",
+        "description": "与其他符文杀手玩家组队，加入公会，参与PvP，成为传奇。",
         "image": {
-          "src": "/imgs/features/8.png"
+          "src": "/imgs/features/community.png"
         }
       }
     ]
   },
   "feature": {
     "name": "feature",
-    "title": "ShipAny 核心功能",
-    "description": "快速高效启动 AI SaaS 创业所需的一切。",
+    "title": "为什么符文杀手会吸引你",
+    "description": "根据你的游戏风格明智地选择你的符文杀手角色职业",
     "items": [
       {
-        "title": "Next.js 模板",
-        "description": "生产就绪的 Next.js 模板，支持 SEO 友好结构和国际化。",
-        "icon": "RiNextjsFill"
+        "title": "符文杀手动态开放世界",
+        "description": "探索符文杀手多样化的景观，寻找隐藏宝藏，危险生物和令人惊叹的景色",
+        "icon": "RiLandscapeLine"
       },
       {
-        "title": "身份验证和支付",
-        "description": "集成 Google OAuth、一键登录和 Stripe 支付处理。",
-        "icon": "RiKey2Fill"
+        "title": "符文杀手深度进阶系统",
+        "description": "通过多种职业、技能和装备升级发展你的符文杀手角色",
+        "icon": "RiSwordLine"
       },
       {
-        "title": "数据基础设施",
-        "description": "内置 Supabase 集成，提供可靠和可扩展的数据存储。",
-        "icon": "RiDatabase2Line"
+        "title": "符文杀手战略战斗",
+        "description": "掌握符文杀手基于技能的战斗系统，时机、位置和技巧至关重要",
+        "icon": "RiShieldLine"
       },
       {
-        "title": "一键部署",
-        "description": "无缝部署到 Vercel 或 Cloudflare，自动化设置。",
-        "icon": "RiCloudy2Fill"
+        "title": "符文杀手丰富制作经济",
+        "description": "在符文杀手中收集资源，发现配方，打造强大装备",
+        "icon": "RiHammerLine"
       },
       {
-        "title": "业务分析",
-        "description": "集成 Google Analytics 和 Search Console 追踪增长。",
-        "icon": "RiBarChart2Line"
+        "title": "符文杀手刺激宠物系统",
+        "description": "在符文杀手中驯服超过15种不同的生物，它们有独特的能力助你冒险",
+        "icon": "RiEmotionLine"
       },
       {
-        "title": "AI 就绪基础设施",
-        "description": "预配置 AI 集成，内置积分系统和 API 销售。",
-        "icon": "RiRobot2Line"
-      }
-    ]
-  },
-  "showcase": {
-    "name": "showcase",
-    "title": "使用 ShipAny 构建的 AI SaaS 创业项目",
-    "description": "易于使用，快速发布。",
-    "items": [
-      {
-        "title": "ThinkAny",
-        "description": "AI 搜索引擎",
-        "url": "https://thinkany.ai",
-        "target": "_blank",
-        "image": {
-          "src": "/imgs/showcases/7.png"
-        }
-      },
-      {
-        "title": "HeyBeauty",
-        "description": "AI 虚拟试妆",
-        "url": "https://heybeauty.ai",
-        "target": "_blank",
-        "image": {
-          "src": "/imgs/showcases/5.png"
-        }
-      },
-      {
-        "title": "AI Wallpaper",
-        "description": "AI 壁纸生成器",
-        "url": "https://aiwallpaper.shop",
-        "target": "_blank",
-        "image": {
-          "src": "/imgs/showcases/1.png"
-        }
-      },
-      {
-        "title": "AI Cover",
-        "description": "AI 封面生成器",
-        "url": "https://aicover.design",
-        "target": "_blank",
-        "image": {
-          "src": "/imgs/showcases/2.png"
-        }
-      },
-      {
-        "title": "GPTs Works",
-        "description": "GPTs 目录",
-        "url": "https://gpts.works",
-        "target": "_blank",
-        "image": {
-          "src": "/imgs/showcases/3.png"
-        }
-      },
-      {
-        "title": "Melodisco",
-        "description": "AI 音乐播放器",
-        "url": "https://melodis.co",
-        "target": "_blank",
-        "image": {
-          "src": "/imgs/showcases/4.png"
-        }
-      },
-      {
-        "title": "Pagen",
-        "description": "AI 落地页生成器",
-        "url": "https://pagen.so",
-        "target": "_blank",
-        "image": {
-          "src": "/imgs/showcases/6.png"
-        }
-      },
-      {
-        "title": "SoraFM",
-        "description": "AI 视频生成器",
-        "url": "https://sorafm.trys.ai",
-        "target": "_blank",
-        "image": {
-          "src": "/imgs/showcases/8.png"
-        }
-      },
-      {
-        "title": "PodLM",
-        "description": "AI 播客生成器",
-        "url": "https://podlm.ai",
-        "target": "_blank",
-        "image": {
-          "src": "/imgs/showcases/9.png"
-        }
-      }
-    ]
-  },
-  "stats": {
-    "name": "stats",
-    "label": "统计",
-    "title": "用户喜爱 ShipAny",
-    "description": "因为它易于使用且快速发布。",
-    "icon": "FaRegHeart",
-    "items": [
-      {
-        "title": "信任",
-        "label": "99+",
-        "description": "客户"
-      },
-      {
-        "title": "内置",
-        "label": "20+",
-        "description": "组件"
-      },
-      {
-        "title": "快速发布",
-        "label": "5",
-        "description": "分钟"
+        "title": "符文杀手平衡PvP体验",
+        "description": "在高风险的符文杀手遭遇战中测试你与其他玩家的技能",
+        "icon": "RiSwordFill"
       }
     ]
   },
 
-  "testimonial": {
-    "name": "testimonial",
-    "label": "用户评价",
-    "title": "用户如何评价 ShipAny",
-    "description": "听听使用 ShipAny 启动 AI 创业项目的开发者和创始人怎么说。",
-    "icon": "GoThumbsup",
-    "items": [
-      {
-        "title": "陈大卫",
-        "label": "AIWallpaper.shop 创始人",
-        "description": "ShipAny 为我们节省了数月的开发时间。我们仅用 2 天就启动了 AI 壁纸业务，一周内就获得了第一个付费客户！",
-        "image": {
-          "src": "/imgs/users/1.png"
-        }
-      },
-      {
-        "title": "金瑞秋",
-        "label": "HeyBeauty.ai 技术总监",
-        "description": "预构建的 AI 基础设施是一个游戏规则改变者。我们无需担心架构 - 只需专注于 AI 美容技术并快速上线。",
-        "image": {
-          "src": "/imgs/users/2.png"
-        }
-      },
-      {
-        "title": "马库斯",
-        "label": "独立开发者",
-        "description": "作为独立开发者，ShipAny 给了我所需的一切 - 身份验证、支付、AI 集成和漂亮的 UI。一个周末就启动了我的 SaaS！",
-        "image": {
-          "src": "/imgs/users/3.png"
-        }
-      },
-      {
-        "title": "索菲亚",
-        "label": "Melodisco CEO",
-        "description": "这些模板可直接用于生产且高度可定制。我们用几小时而不是几个月就建立了 AI 音乐平台。上市时间令人难以置信！",
-        "image": {
-          "src": "/imgs/users/4.png"
-        }
-      },
-      {
-        "title": "詹姆斯",
-        "label": "GPTs.works 技术主管",
-        "description": "ShipAny 的基础设施非常稳固。我们从 0 扩展到 1 万用户都没碰后端。这是我们 AI 创业最好的投资。",
-        "image": {
-          "src": "/imgs/users/5.png"
-        }
-      },
-      {
-        "title": "张安娜",
-        "label": "创业者",
-        "description": "从想法到上线只用了 3 天！ShipAny 的模板和部署工具让我们能够以令人难以置信的速度测试 AI 业务概念。",
-        "image": {
-          "src": "/imgs/users/6.png"
-        }
-      }
-    ]
-  },
   "faq": {
     "name": "faq",
     "label": "常见问题",
-    "title": "关于 ShipAny 的常见问题",
-    "description": "还有其他问题？通过 Discord 或电子邮件联系我们。",
+    "title": "关于符文杀手的常见问题",
+    "description": "还有其他关于符文杀手的问题？加入我们的符文杀手Discord或访问符文杀手社区Trello面板。",
     "items": [
       {
-        "title": "ShipAny 究竟是什么，它是如何工作的？",
-        "description": "ShipAny 是一个专门为构建 AI SaaS 创业项目设计的综合性 NextJS 模板。它提供即用型模板、基础设施设置和部署工具，帮助您在几小时内而不是几天内启动 AI 业务。"
+        "title": "我如何在符文杀手中重置我的悬赏？",
+        "description": "在符文杀手中访问韦沙镇旅馆外的洛克迈尔NPC重置你的悬赏。低悬赏需要几个银币，而高悬赏可能需要几个金币。"
       },
       {
-        "title": "使用 ShipAny 需要高级技术技能吗？",
-        "description": "虽然基本的编程知识会有帮助，但 ShipAny 设计得非常开发者友好。我们的模板和文档使您即使不是 AI 或云基础设施专家也能轻松入门。"
+        "title": "符文杀手中最好的种族有哪些？",
+        "description": "虽然符文杀手中的种族最初是随机分配的，但顶级种族包括无头骑士、史莱姆、艾露兰和精灵。如果需要，你可以花150 Robux重新随机你的符文杀手种族。"
       },
       {
-        "title": "我可以用 ShipAny 构建什么类型的 AI SaaS？",
-        "description": "ShipAny 支持广泛的 AI 应用，从内容生成到数据分析工具。我们的模板涵盖流行用例，如 AI 聊天机器人、内容生成器、图像处理应用等。"
+        "title": "符文杀手中的宠物驯服系统如何运作？",
+        "description": "不同的符文杀手宠物需要特定物品来驯服。例如，史莱姆需要史莱姆块，鹿需要苹果，狼需要生鹿肉。在符文杀手中，驯服尝试之间有5分钟冷却时间，玩家死亡时重置。"
       },
       {
-        "title": "使用 ShipAny 通常需要多长时间才能启动？",
-        "description": "使用 ShipAny，您可以在几小时内完成工作原型，并在几小时内完成生产就绪的应用。我们的一键部署和预配置基础设施显著缩短了传统的数月开发周期。"
+        "title": "符文杀手中初学者最好的职业是什么？",
+        "description": "牧师（S级）因强大的治疗能力被认为是符文杀手中最好的整体职业。对于注重战斗的符文杀手初学者，格斗家（A级）提供良好的伤害和PvP能力，而弓箭手（A级）则擅长远程战斗和PvE内容。"
       },
       {
-        "title": "ShipAny 的基础设施包括什么？",
-        "description": "ShipAny 提供完整的基础设施栈，包括身份验证、数据库设置、API 集成、支付处理和可扩展的云部署。一切都按照行业最佳实践预先配置。"
+        "title": "我如何在符文杀手中开始钓鱼？",
+        "description": "在符文杀手中从韦沙镇南部的渔夫西蒙处购买钓鱼竿和鱼饵。装备钓竿，投出鱼线，当看到水面上出现涟漪时点击。符文杀手中不同的鱼饵消耗几率各不相同。"
       },
       {
-        "title": "我可以自定义模板以匹配我的品牌吗？",
-        "description": "当然可以！所有 ShipAny 模板都完全可定制。您可以修改设计、功能和功能性以匹配您的品牌标识和特定业务需求，同时保持强大的底层基础设施。"
+        "title": "符文杀手中的制作系统如何运作？",
+        "description": "在符文杀手中，基础铜制品可以在韦沙镇东部的铁匠NPC处制作。使用熔炉创建锭和制作台制作高级物品。随着你在符文杀手世界中发现资源，新配方将会解锁。"
       }
     ]
   },
-  "cta": {
-    "name": "cta",
-    "title": "启动您的第一个 AI SaaS 创业项目",
-    "description": "从这里开始，使用 ShipAny 启动。",
-    "buttons": [
-      {
-        "title": "获取 ShipAny",
-        "url": "https://shipany.ai",
-        "target": "_blank",
-        "icon": "GoArrowUpRight"
-      },
-      {
-        "title": "阅读文档",
-        "url": "https://docs.shipany.ai",
-        "target": "_blank",
-        "variant": "outline"
-      }
-    ]
-  },
+
   "footer": {
     "name": "footer",
     "brand": {
-      "title": "ShipAny",
-      "description": "ShipAny 是一个用于构建 AI SaaS 创业项目的 NextJS 模板。通过丰富的模板和组件快速启动。",
+      "title": "符文杀手",
+      "description": "符文杀手是Roblox上的一款开放世界RPG，玩家可以在这里结交伙伴并变得更强大，以在野外生存。今天就体验符文杀手吧！",
       "logo": {
         "src": "/logo.png",
-        "alt": "ShipAny"
+        "alt": "符文杀手"
       },
       "url": "/"
     },
-    "copyright": "© 2025 • ShipAny 保留所有权利。",
+    "copyright": "© 2025 • 符文杀手 版权所有。",
     "nav": {
       "items": [
         {
-          "title": "关于",
+          "title": "关于符文杀手",
           "children": [
             {
-              "title": "功能特点",
+              "title": "特色",
               "url": "/#feature",
               "target": "_self"
             },
             {
-              "title": "案例展示",
-              "url": "/#showcase",
+              "title": "玩法",
+              "url": "/#gameplay",
               "target": "_self"
             },
             {
-              "title": "定价",
-              "url": "/#pricing",
+              "title": "社区",
+              "url": "/#community",
               "target": "_self"
-            }
-          ]
-        },
-        {
-          "title": "资源",
-          "children": [
-            {
-              "title": "文档",
-              "url": "https://docs.shipany.ai",
-              "target": "_blank"
-            },
-            {
-              "title": "组件",
-              "url": "https://shipany.ai/components",
-              "target": "_blank"
-            },
-            {
-              "title": "模板",
-              "url": "https://shipany.ai/templates",
-              "target": "_blank"
-            }
-          ]
-        },
-        {
-          "title": "友情链接",
-          "children": [
-            {
-              "title": "ThinkAny",
-              "url": "https://thinkany.ai",
-              "target": "_blank"
-            },
-            {
-              "title": "HeyBeauty",
-              "url": "https://heybeauty.ai",
-              "target": "_blank"
-            },
-            {
-              "title": "Pagen",
-              "url": "https://pagen.so",
-              "target": "_blank"
             }
           ]
         }
@@ -562,42 +228,68 @@
     "social": {
       "items": [
         {
-          "title": "X",
+          "title": "符文杀手 X",
           "icon": "RiTwitterXFill",
-          "url": "https://x.com/shipanyai",
+          "url": "https://x.com/runeslayergame",
           "target": "_blank"
         },
         {
-          "title": "Github",
-          "icon": "RiGithubFill",
-          "url": "https://github.com/shipanyai",
+          "title": "符文杀手 Youtube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/runeslayer",
           "target": "_blank"
         },
         {
-          "title": "Discord",
+          "title": "符文杀手 Discord",
           "icon": "RiDiscordFill",
-          "url": "https://discord.gg/HQNnrzjZQS",
+          "url": "https://discord.gg/runeslayer",
           "target": "_blank"
         },
         {
-          "title": "邮箱",
-          "icon": "RiMailLine",
-          "url": "mailto:support@shipany.ai",
-          "target": "_self"
+          "title": "符文杀手 Roblox",
+          "icon": "SiRoblox",
+          "url": "https://roblox.com/games/runeslayer",
+          "target": "_blank"
         }
       ]
+    }
+  },
+  "team2": {
+    "title": "角色职业",
+    "subtitle": "根据你的游戏风格明智地选择你的角色职业",
+    "roles": {
+      "archer": "远程伤害输出",
+      "priest": "治疗与辅助",
+      "thief": "输出与隐身",
+      "magician": "远程法术施放",
+      "warrior": "坦克与前线",
+      "striker": "近战战士"
     },
-    "agreement": {
-      "items": [
-        {
-          "title": "隐私政策",
-          "url": "/privacy-policy"
-        },
-        {
-          "title": "服务条款",
-          "url": "/terms-of-service"
-        }
-      ]
+    "characters": {
+      "archer": {
+        "name": "弓箭手",
+        "description": "最强势的职业。弓箭手从远处攻击，引发箭雨，兽王专精使他们变得过于强大。"
+      },
+      "priest": {
+        "name": "牧师",
+        "description": "可以进行远程/近战伤害和治疗。治疗他人和他们的宠物使他们独一无二。拥有强力宠物的牧师几乎是不可战胜的。"
+      },
+      "thief": {
+        "name": "盗贼",
+        "description": "快速、致命、强大但缺乏防御。适合能够闪避和格挡的玩家。潜伏在阴影中并在适当时机出击。"
+      },
+      "magician": {
+        "name": "法师",
+        "description": "强大的远程法术释放者，最适合团队作战。独自时如同玻璃大炮——最好与战士或格斗家搭配。"
+      },
+      "warrior": {
+        "name": "战士",
+        "description": "在前线猛烈攻击并抵挡伤害。可以穿戴强力护甲但必须靠近战斗，这可能很危险。"
+      },
+      "striker": {
+        "name": "格斗家",
+        "description": "最不受欢迎的职业。依靠速度发动拳击但缺乏防御。容易被强力攻击击倒。需要未来加强。"
+      }
     }
   }
 }

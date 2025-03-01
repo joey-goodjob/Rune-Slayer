@@ -1,0 +1,295 @@
+{
+  "template": "rune-slayer",
+  "theme": "dark",
+  "header": {
+    "brand": {
+      "title": "Runenslachter",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Runenslachter Spel Logo"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Runenslachter Functies",
+          "url": "/#feature",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "Runenslachter Speelwijze",
+          "url": "/#gameplay",
+          "icon": "MdGames"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Speel Runenslachter Nu",
+        "url": "https://roblox.com/games/runeslayer",
+        "target": "_blank",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Overleef en Gedij in Runenslachter",
+    "highlight_text": "Runenslachter",
+    "description": "Runenslachter is een meeslepend open-wereld RPG op Roblox.<br/>Creëer bondgenoten in Runenslachter en word sterker om in het wild te overleven.",
+    "announcement": {
+      "label": "2025",
+      "title": "🎮 Runenslachter Nu Beschikbaar op Roblox",
+      "url": "/#gameplay"
+    },
+
+    "show_happy_users": false,
+    "show_badge": false
+  },
+
+  "introduce": {
+    "name": "introduce",
+    "title": "Wat is het Runenslachter Spel",
+    "label": "Introductie van Runenslachter",
+    "description": "Runenslachter is een meeslepende open-wereld RPG-ervaring op Roblox waar spelers bondgenootschappen vormen en hun personages versterken om te overleven in een gevaarlijke wildernis. De wereld van Runenslachter is gevuld met mystieke runen die buitengewone krachten verlenen aan degenen die ze kunnen beheersen. Word vandaag nog lid van Runenslachter!",
+    "image": {
+      "src": "imgs/1122.png"
+    },
+    "items": [
+      {
+        "title": "Runenslachter Karakterontwikkeling",
+        "description": "Creëer een uniek karakter in Runenslachter met verschillende rassen en klassen, elk met onderscheidende vaardigheden en speelstijlen.",
+        "icon": "RiUserStarLine"
+      },
+      {
+        "title": "Runenslachter Open Wereld Avontuur",
+        "description": "Verken een uitgestrekte Runenslachter wereld gevuld met queestes, monsters en verborgen schatten.",
+        "icon": "RiMapPinLine"
+      },
+      {
+        "title": "Runenslachter Complexe Gevechten",
+        "description": "Beheers het op vaardigheden gebaseerde gevechtssysteem van Runenslachter met aanvallen, blokkades en speciale vaardigheden.",
+        "icon": "RiSwordLine"
+      }
+    ]
+  },
+
+  "usage": {
+    "name": "gameplay",
+    "title": "Hoe Runenslachter te Spelen",
+    "description": "Beheers de basis van Runenslachter en word een legendarische Runenslachter avonturier in vier stappen:",
+    "image": {
+      "src": "/imgs/features/gameplay.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Maak Je Runenslachter Karakter",
+        "description": "Begin met een willekeurig ras in Runenslachter en kies je beginnersklasse. Elk biedt unieke vaardigheden en speelstijlen.",
+        "image": {
+          "src": "/imgs/features/character-creation.png"
+        }
+      },
+      {
+        "title": "Voltooi Runenslachter Queestes",
+        "description": "Neem Runenslachter queestes aan van NPC's (gele vraagtekens) of het bord van het Avonturiersgilde voor beloningen.",
+        "image": {
+          "src": "/imgs/features/quests.png"
+        }
+      },
+      {
+        "title": "Beheers Runenslachter Spelsystemen",
+        "description": "Leer Runenslachter vissen, ambachten, huisdieren temmen en gevechtstechnieken om te overleven en te gedijen in de wereld.",
+        "image": {
+          "src": "/imgs/features/systems.png"
+        }
+      },
+      {
+        "title": "Sluit Je Aan Bij De Runenslachter Gemeenschap",
+        "description": "Vorm een team met andere Runenslachter spelers, sluit je aan bij gildes en neem deel aan PvP om een legende te worden.",
+        "image": {
+          "src": "/imgs/features/community.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Waarom Runenslachter Je Zal Boeien",
+    "description": "Kies je Runenslachter karakterklasse verstandig op basis van je speelstijl",
+    "items": [
+      {
+        "title": "Runenslachter Dynamische Open Wereld",
+        "description": "Verken diverse Runenslachter landschappen gevuld met verborgen schatten, gevaarlijke wezens en adembenemende vergezichten",
+        "icon": "RiLandscapeLine"
+      },
+      {
+        "title": "Runenslachter Diep Voortgangssysteem",
+        "description": "Ontwikkel je Runenslachter karakter door meerdere klassen, vaardigheden en uitrustingsverbeteringen",
+        "icon": "RiSwordLine"
+      },
+      {
+        "title": "Runenslachter Strategisch Gevecht",
+        "description": "Beheers het op vaardigheden gebaseerde gevechtssysteem van Runenslachter waar timing, positionering en techniek belangrijk zijn",
+        "icon": "RiShieldLine"
+      },
+      {
+        "title": "Runenslachter Rijke Ambachtseconomie",
+        "description": "Verzamel grondstoffen in Runenslachter, ontdek recepten en smeed krachtige uitrusting",
+        "icon": "RiHammerLine"
+      },
+      {
+        "title": "Runenslachter Spannend Huisdiersysteem",
+        "description": "Tem meer dan 15 verschillende wezens in Runenslachter met unieke vaardigheden om je avonturen te ondersteunen",
+        "icon": "RiEmotionLine"
+      },
+      {
+        "title": "Runenslachter Evenwichtige PvP Ervaring",
+        "description": "Test je vaardigheden tegen andere spelers in hoogrisico Runenslachter ontmoetingen",
+        "icon": "RiSwordFill"
+      }
+    ]
+  },
+
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Veelgestelde Vragen Over Runenslachter",
+    "description": "Heb je nog een andere vraag over Runenslachter? Word lid van onze Runenslachter Discord of bezoek het Runenslachter gemeenschap Trello-bord.",
+    "items": [
+      {
+        "title": "Hoe reset ik mijn premie in Runenslachter?",
+        "description": "Bezoek de Lockmeier NPC buiten de Wayshire Herberg in Runenslachter om je premie te resetten. Lage premies kosten een paar zilveren munten, terwijl hogere premies meerdere gouden munten kunnen kosten."
+      },
+      {
+        "title": "Wat zijn de beste rassen om te kiezen in Runenslachter?",
+        "description": "Hoewel rassen in Runenslachter aanvankelijk willekeurig worden toegewezen, behoren de topklasse rassen tot Dullahan, Slijm, Ailuran en Elf. Je kunt je Runenslachter ras opnieuw rollen voor 150 Robux indien gewenst."
+      },
+      {
+        "title": "Hoe werkt het huisdiertemsysteem in Runenslachter?",
+        "description": "Verschillende Runenslachter huisdieren vereisen specifieke voorwerpen om te temmen. Slijmen hebben bijvoorbeeld Slijmbrokken nodig, Herten hebben Appels nodig en Wolven hebben Rauw Hertenvlees nodig. Er is een afkoeltijd van 5 minuten tussen tempogingen in Runenslachter, die wordt gereset bij de dood van de speler."
+      },
+      {
+        "title": "Wat is de beste klasse voor beginners in Runenslachter?",
+        "description": "Priester (S-niveau) wordt beschouwd als de beste algemene Runenslachter klasse vanwege krachtige genezingsvaardigheden. Voor gevechtsgerichte beginners in Runenslachter biedt Aanvaller (A-niveau) goede schade en PvP-mogelijkheden, terwijl Boogschutter (A-niveau) uitstekend is voor gevechten op afstand en PvE-inhoud."
+      },
+      {
+        "title": "Hoe begin ik met vissen in Runenslachter?",
+        "description": "Koop een vishengel en aas van Simon De Visser ten zuiden van Wayshire in Runenslachter. Rust de hengel uit, werp je lijn uit en klik wanneer je kringen op het wateroppervlak ziet. Verschillende Runenslachter aassoorten hebben verschillende verbruikskansen."
+      },
+      {
+        "title": "Hoe werkt het ambachtssysteem in Runenslachter?",
+        "description": "Basis kopervoorwerpen kunnen worden gemaakt bij de smid-NPC ten oosten van Wayshire in Runenslachter. Gebruik ovens om staven te maken en ambachtstafels voor geavanceerde voorwerpen. Nieuwe recepten worden ontgrendeld wanneer je grondstoffen ontdekt in de Runenslachter wereld."
+      }
+    ]
+  },
+
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Runenslachter",
+      "description": "Runenslachter is een open-wereld RPG op Roblox waar spelers bondgenoten creëren en sterker worden om in het wild te overleven. Ervaar Runenslachter vandaag nog!",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Runenslachter"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • Runenslachter Alle rechten voorbehouden.",
+    "nav": {
+      "items": [
+        {
+          "title": "Over Runenslachter",
+          "children": [
+            {
+              "title": "Functies",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "Speelwijze",
+              "url": "/#gameplay",
+              "target": "_self"
+            },
+            {
+              "title": "Gemeenschap",
+              "url": "/#community",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "Runenslachter X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/runeslayergame",
+          "target": "_blank"
+        },
+        {
+          "title": "Runenslachter Youtube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Runenslachter Discord",
+          "icon": "RiDiscordFill",
+          "url": "https://discord.gg/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Runenslachter Roblox",
+          "icon": "SiRoblox",
+          "url": "https://roblox.com/games/runeslayer",
+          "target": "_blank"
+        }
+      ]
+    }
+  },
+  "team2": {
+    "title": "Karakter Klassen",
+    "subtitle": "Kies je karakterklasse verstandig op basis van je speelstijl",
+    "roles": {
+      "archer": "Afstandsschadespeler",
+      "priest": "Genezer & Ondersteuner",
+      "thief": "DPS & Sluiper",
+      "magician": "Afstandstoveraar",
+      "warrior": "Tank & Frontlinie",
+      "striker": "Nabijvechter"
+    },
+    "characters": {
+      "archer": {
+        "name": "Boogschutter",
+        "description": "De meest overpowered klasse. Boogschutters vallen aan vanaf afstand, veroorzaken pijlenregen, en de Beestentemmer specialisatie maakt ze onoverwinnelijk."
+      },
+      "priest": {
+        "name": "Priester",
+        "description": "Kan schade op afstand/nabij toebrengen en genezen. Het genezen van anderen en hun huisdier plaatst hen in een klasse apart. Een Priester met een krachtig huisdier is bijna onverslaanbaar."
+      },
+      "thief": {
+        "name": "Dief",
+        "description": "Snel, dodelijk, krachtig maar weinig verdediging. Geweldig voor spelers die kunnen ontwijken en pareren. Blijf in de schaduwen en val aan op het juiste moment."
+      },
+      "magician": {
+        "name": "Tovenaar",
+        "description": "Krachtige afstandstovenaars, het beste in groepen. Op zichzelf kwetsbaar - combineer met krijgers of aanvallers voor de beste resultaten."
+      },
+      "warrior": {
+        "name": "Krijger",
+        "description": "Slaat hard toe en vangt schade op aan de frontlinie. Kan krachtige pantser dragen maar moet dicht bij de actie komen, wat gevaarlijk kan zijn."
+      },
+      "striker": {
+        "name": "Aanvaller",
+        "description": "Minst gewenste klasse. Vertrouwt op snelheid om vuistslagen te leveren maar weinig verdediging. Wordt gemakkelijk verslagen door krachtige aanvallen. Heeft toekomstige versterkingen nodig."
+      }
+    }
+  }
+}

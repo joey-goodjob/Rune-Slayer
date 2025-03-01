@@ -12,6 +12,7 @@ import Stats from "@/components/blocks/stats";
 import Testimonial from "@/components/blocks/testimonial";
 import { getLandingPage } from "@/services/page";
 import Team from "@/components/blocks/team";
+import Team2 from "@/components/blocks/team2";
 
 export async function generateMetadata({
   params: { locale },
@@ -45,7 +46,8 @@ export default async function LandingPage({
       {page.introduce && <Feature1 section={page.introduce} />}
       {page.usage && <Feature3 section={page.usage} />}
       {/* {page.benefit && <Feature2 section={page.benefit} />} */}
-      <Team />
+
+      <Team2 />
 
       {page.feature && <Feature section={page.feature} />}
 

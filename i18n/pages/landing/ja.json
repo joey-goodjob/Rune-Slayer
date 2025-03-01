@@ -1,0 +1,295 @@
+{
+  "template": "rune-slayer",
+  "theme": "dark",
+  "header": {
+    "brand": {
+      "title": "ルーンスレイヤー",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "ルーンスレイヤーゲームロゴ"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "ルーンスレイヤーの特徴",
+          "url": "/#feature",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "ルーンスレイヤーのゲームプレイ",
+          "url": "/#gameplay",
+          "icon": "MdGames"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "今すぐルーンスレイヤーをプレイ",
+        "url": "https://roblox.com/games/runeslayer",
+        "target": "_blank",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "ルーンスレイヤーで生き抜き、成長しよう",
+    "highlight_text": "ルーンスレイヤー",
+    "description": "ルーンスレイヤーはRoblox上の没入型オープンワールドRPGです。<br/>ルーンスレイヤーで仲間を作り、強くなって荒野で生き抜きましょう。",
+    "announcement": {
+      "label": "2025",
+      "title": "🎮 ルーンスレイヤーが今Robloxで利用可能",
+      "url": "/#gameplay"
+    },
+
+    "show_happy_users": false,
+    "show_badge": false
+  },
+
+  "introduce": {
+    "name": "introduce",
+    "title": "ルーンスレイヤーゲームとは",
+    "label": "ルーンスレイヤーの紹介",
+    "description": "ルーンスレイヤーはRoblox上の没入型オープンワールドRPG体験で、プレイヤーは同盟を結び、危険な荒野で生き残るためにキャラクターを強化します。ルーンスレイヤーの世界は、マスターした者に並外れた力を与える神秘的なルーンで満ちています。今すぐルーンスレイヤーに参加しましょう！",
+    "image": {
+      "src": "imgs/1122.png"
+    },
+    "items": [
+      {
+        "title": "ルーンスレイヤーのキャラクター育成",
+        "description": "ルーンスレイヤーで異なる種族とクラスを持つユニークなキャラクターを作成し、それぞれが独自の能力とプレイスタイルを持ちます。",
+        "icon": "RiUserStarLine"
+      },
+      {
+        "title": "ルーンスレイヤーのオープンワールドアドベンチャー",
+        "description": "クエスト、モンスター、隠された宝物で満ちた広大なルーンスレイヤーの世界を探索しましょう。",
+        "icon": "RiMapPinLine"
+      },
+      {
+        "title": "ルーンスレイヤーの複雑な戦闘",
+        "description": "攻撃、ブロック、特殊能力を使ったルーンスレイヤーのスキルベースの戦闘システムをマスターしましょう。",
+        "icon": "RiSwordLine"
+      }
+    ]
+  },
+
+  "usage": {
+    "name": "gameplay",
+    "title": "ルーンスレイヤーの遊び方",
+    "description": "ルーンスレイヤーの基本をマスターし、4つのステップで伝説のルーンスレイヤー冒険者になりましょう：",
+    "image": {
+      "src": "/imgs/features/gameplay.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "ルーンスレイヤーのキャラクターを作成",
+        "description": "ルーンスレイヤーでランダムな種族から始め、開始クラスを選びましょう。それぞれが独自の能力とプレイスタイルを提供します。",
+        "image": {
+          "src": "/imgs/features/character-creation.png"
+        }
+      },
+      {
+        "title": "ルーンスレイヤーのクエストを完了",
+        "description": "NPC（黄色の疑問符）または冒険者ギルドの掲示板からルーンスレイヤーのクエストを引き受け、報酬を獲得しましょう。",
+        "image": {
+          "src": "/imgs/features/quests.png"
+        }
+      },
+      {
+        "title": "ルーンスレイヤーのゲームシステムをマスター",
+        "description": "ルーンスレイヤーの釣り、クラフト、ペット育成、戦闘メカニクスを学び、世界で生き抜き、繁栄しましょう。",
+        "image": {
+          "src": "/imgs/features/systems.png"
+        }
+      },
+      {
+        "title": "ルーンスレイヤーコミュニティに参加",
+        "description": "他のルーンスレイヤープレイヤーとチームを組み、ギルドに参加し、PvPに参加して伝説となりましょう。",
+        "image": {
+          "src": "/imgs/features/community.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "なぜルーンスレイヤーがあなたを魅了するか",
+    "description": "あなたのプレイスタイルに基づいてルーンスレイヤーのキャラクタークラスを賢く選びましょう",
+    "items": [
+      {
+        "title": "ルーンスレイヤーのダイナミックなオープンワールド",
+        "description": "隠された宝物、危険な生物、息を呑むような景色で満ちた多様なルーンスレイヤーの風景を探索しましょう",
+        "icon": "RiLandscapeLine"
+      },
+      {
+        "title": "ルーンスレイヤーの深い成長システム",
+        "description": "複数のクラス、スキル、装備アップグレードを通じてルーンスレイヤーのキャラクターを発展させましょう",
+        "icon": "RiSwordLine"
+      },
+      {
+        "title": "ルーンスレイヤーの戦略的戦闘",
+        "description": "タイミング、位置取り、テクニックが重要なルーンスレイヤーのスキルベースの戦闘システムをマスターしましょう",
+        "icon": "RiShieldLine"
+      },
+      {
+        "title": "ルーンスレイヤーの豊かなクラフト経済",
+        "description": "ルーンスレイヤーで資源を集め、レシピを発見し、強力な装備を鍛造しましょう",
+        "icon": "RiHammerLine"
+      },
+      {
+        "title": "ルーンスレイヤーのスリリングなペットシステム",
+        "description": "独自の能力を持つ15種類以上の生物をルーンスレイヤーで飼いならし、冒険をサポートしましょう",
+        "icon": "RiEmotionLine"
+      },
+      {
+        "title": "ルーンスレイヤーのバランスの取れたPvP体験",
+        "description": "ハイステークスなルーンスレイヤーの遭遇で他のプレイヤーとスキルを試しましょう",
+        "icon": "RiSwordFill"
+      }
+    ]
+  },
+
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "ルーンスレイヤーについてよくある質問",
+    "description": "ルーンスレイヤーについて他に質問がありますか？ルーンスレイヤーのDiscordに参加するか、ルーンスレイヤーコミュニティのTrelloボードをご覧ください。",
+    "items": [
+      {
+        "title": "ルーンスレイヤーで賞金をリセットするにはどうすればいいですか？",
+        "description": "ルーンスレイヤーのウェイシャーインの外にいるロックマイアーNPCを訪ねて賞金をリセットしましょう。低い賞金は数シルバーコインがかかりますが、高い賞金は数ゴールドコインがかかる場合があります。"
+      },
+      {
+        "title": "ルーンスレイヤーで選ぶべき最高の種族は何ですか？",
+        "description": "ルーンスレイヤーの種族は最初はランダムに割り当てられますが、トップティアの種族にはデュラハン、スライム、アイルラン、エルフが含まれます。希望する場合は150 Robuxでルーンスレイヤーの種族を再ロールできます。"
+      },
+      {
+        "title": "ルーンスレイヤーのペット馴化システムはどのように機能しますか？",
+        "description": "異なるルーンスレイヤーのペットには、馴化するために特定のアイテムが必要です。例えば、スライムにはスライムチャンク、鹿にはリンゴ、オオカミには生の鹿肉が必要です。ルーンスレイヤーでは、馴化の試みの間に5分間のクールダウンがあり、プレイヤーが死亡するとリセットされます。"
+      },
+      {
+        "title": "ルーンスレイヤーの初心者に最適なクラスは何ですか？",
+        "description": "プリースト（Sティア）は強力な治癒能力のためにルーンスレイヤーで最も優れたクラスと考えられています。戦闘重視の初心者のルーンスレイヤーでは、ストライカー（Aティア）は良いダメージとPvP能力を提供し、アーチャー（Aティア）は遠距離戦闘とPvEコンテンツに優れています。"
+      },
+      {
+        "title": "ルーンスレイヤーで釣りを始めるにはどうすればいいですか？",
+        "description": "ルーンスレイヤーのウェイシャーの南にいる漁師サイモンから釣り竿と餌を購入しましょう。竿を装備し、糸を投げ、水面に波紋が見えたらクリックします。異なるルーンスレイヤーの餌は消費確率が異なります。"
+      },
+      {
+        "title": "ルーンスレイヤーのクラフトシステムはどのように機能しますか？",
+        "description": "基本的な銅のアイテムはルーンスレイヤーのウェイシャーの東にいる鍛冶屋NPCで作成できます。かまどを使ってインゴットを作り、クラフトテーブルで高度なアイテムを作りましょう。ルーンスレイヤーの世界で資源を発見すると新しいレシピがアンロックされます。"
+      }
+    ]
+  },
+
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "ルーンスレイヤー",
+      "description": "ルーンスレイヤーはRoblox上のオープンワールドRPGで、プレイヤーは仲間を作り、荒野で生き残るために強くなります。今日ルーンスレイヤーを体験しましょう！",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "ルーンスレイヤー"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • ルーンスレイヤー 全著作権所有。",
+    "nav": {
+      "items": [
+        {
+          "title": "ルーンスレイヤーについて",
+          "children": [
+            {
+              "title": "特徴",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "ゲームプレイ",
+              "url": "/#gameplay",
+              "target": "_self"
+            },
+            {
+              "title": "コミュニティ",
+              "url": "/#community",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "ルーンスレイヤー X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/runeslayergame",
+          "target": "_blank"
+        },
+        {
+          "title": "ルーンスレイヤー Youtube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "ルーンスレイヤー Discord",
+          "icon": "RiDiscordFill",
+          "url": "https://discord.gg/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "ルーンスレイヤー Roblox",
+          "icon": "SiRoblox",
+          "url": "https://roblox.com/games/runeslayer",
+          "target": "_blank"
+        }
+      ]
+    }
+  },
+  "team2": {
+    "title": "キャラクタークラス",
+    "subtitle": "あなたのプレイスタイルに基づいてキャラクタークラスを賢く選びましょう",
+    "roles": {
+      "archer": "遠距離ダメージディーラー",
+      "priest": "ヒーラー＆サポート",
+      "thief": "DPS＆ステルス",
+      "magician": "遠距離魔法使い",
+      "warrior": "タンク＆前線",
+      "striker": "近接戦闘員"
+    },
+    "characters": {
+      "archer": {
+        "name": "アーチャー",
+        "description": "最も壊れたクラス。アーチャーは遠距離から攻撃し、矢の雨を降らせ、ビーストテイマー特化で過剰な力を持ちます。"
+      },
+      "priest": {
+        "name": "プリースト",
+        "description": "遠距離/近接ダメージを与え、回復もできます。他者とペットを回復する能力で一線を画します。強力なペットを持つプリーストはほぼ倒せません。"
+      },
+      "thief": {
+        "name": "シーフ",
+        "description": "素早く、致命的で強力ですが防御が弱い。回避とパリーができるプレイヤーに最適。影に潜み、適切なタイミングで攻撃します。"
+      },
+      "magician": {
+        "name": "マジシャン",
+        "description": "強力な遠距離呪文使いでグループに最適。一人ではガラスの大砲のようなものです - 最良の結果を得るにはウォリアーやストライカーとペアを組みましょう。"
+      },
+      "warrior": {
+        "name": "ウォリアー",
+        "description": "前線で強く攻撃し、ダメージを耐えます。強力な鎧を身につけることができますが、危険な行動に近づく必要があります。"
+      },
+      "striker": {
+        "name": "ストライカー",
+        "description": "最も望ましくないクラス。スピードに頼って拳の一撃を与えますが防御が弱い。強力な攻撃で簡単に倒されます。将来のバフが必要です。"
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "team2": {
+    "title": "Clases de Personajes",
+    "subtitle": "Elige sabiamente tu clase de personaje según tu estilo de juego",
+    "roles": {
+      "archer": "Causante de Daño a Distancia",
+      "priest": "Sanador & Apoyo",
+      "thief": "DPS & Sigilo",
+      "magician": "Lanzador de Hechizos a Distancia",
+      "warrior": "Tanque & Primera Línea",
+      "striker": "Luchador Cuerpo a Cuerpo"
+    },
+    "characters": {
+      "archer": {
+        "name": "Arquero",
+        "description": "La clase más desequilibrada. Los arqueros atacan a distancia, causan lluvia de flechas, y la especialización Domador de Bestias los hace superpoderosos."
+      },
+      "priest": {
+        "name": "Sacerdote",
+        "description": "Puede hacer daño a distancia/cuerpo a cuerpo y sanar. Curar a otros y a sus mascotas los pone en una liga propia. Un Sacerdote con una mascota poderosa es casi invencible."
+      },
+      "thief": {
+        "name": "Ladrón",
+        "description": "Rápido, letal, poderoso pero con poca defensa. Ideal para jugadores que pueden esquivar y parar. Manténte en las sombras y ataca en el momento adecuado."
+      },
+      "magician": {
+        "name": "Mago",
+        "description": "Poderosos lanzadores de hechizos a distancia, mejores en grupos. Cañones de cristal por sí solos - empareja con guerreros o striker para mejores resultados."
+      },
+      "warrior": {
+        "name": "Guerrero",
+        "description": "Golpea fuerte y absorbe daño en la primera línea. Puede llevar armadura poderosa pero debe acercarse a la acción, lo que puede ser peligroso."
+      },
+      "striker": {
+        "name": "Striker",
+        "description": "La clase menos deseable. Depende de la velocidad para dar golpes de puño pero carece de defensa. Fácilmente eliminado por ataques poderosos. Necesita mejoras futuras."
+      }
+    }
+  }
+}

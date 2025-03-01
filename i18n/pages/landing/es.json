@@ -1,0 +1,295 @@
+{
+  "template": "rune-slayer",
+  "theme": "dark",
+  "header": {
+    "brand": {
+      "title": "Rune Slayer",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Logo del Juego Rune Slayer"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Características de Rune Slayer",
+          "url": "/#feature",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "Jugabilidad de Rune Slayer",
+          "url": "/#gameplay",
+          "icon": "MdGames"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Juega Rune Slayer Ahora",
+        "url": "https://roblox.com/games/runeslayer",
+        "target": "_blank",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Sobrevive y Prospera en Rune Slayer",
+    "highlight_text": "Rune Slayer",
+    "description": "Rune Slayer es un RPG inmersivo de mundo abierto en Roblox.<br/>Crea aliados en Rune Slayer y hazte más fuerte para sobrevivir en la naturaleza.",
+    "announcement": {
+      "label": "2025",
+      "title": "🎮 Rune Slayer Ya Disponible en Roblox",
+      "url": "/#gameplay"
+    },
+
+    "show_happy_users": false,
+    "show_badge": false
+  },
+
+  "introduce": {
+    "name": "introduce",
+    "title": "Qué es el Juego Rune Slayer",
+    "label": "Introducción a Rune Slayer",
+    "description": "Rune Slayer es una experiencia RPG inmersiva de mundo abierto en Roblox donde los jugadores forjan alianzas y fortalecen sus personajes para sobrevivir en una naturaleza peligrosa. El mundo de Rune Slayer está lleno de runas místicas que otorgan poderes extraordinarios a quienes pueden dominarlas. ¡Únete a Rune Slayer hoy!",
+    "image": {
+      "src": "imgs/1122.png"
+    },
+    "items": [
+      {
+        "title": "Desarrollo de Personajes en Rune Slayer",
+        "description": "Crea un personaje único en Rune Slayer con diferentes razas y clases, cada una con habilidades y estilos de juego distintos.",
+        "icon": "RiUserStarLine"
+      },
+      {
+        "title": "Aventura de Mundo Abierto en Rune Slayer",
+        "description": "Explora un vasto mundo de Rune Slayer lleno de misiones, monstruos y tesoros escondidos.",
+        "icon": "RiMapPinLine"
+      },
+      {
+        "title": "Combate Complejo en Rune Slayer",
+        "description": "Domina el sistema de combate basado en habilidades de Rune Slayer con ataques, bloqueos y habilidades especiales.",
+        "icon": "RiSwordLine"
+      }
+    ]
+  },
+
+  "usage": {
+    "name": "gameplay",
+    "title": "Cómo Jugar Rune Slayer",
+    "description": "Domina los conceptos básicos de Rune Slayer y conviértete en un legendario aventurero de Rune Slayer en cuatro pasos:",
+    "image": {
+      "src": "/imgs/features/gameplay.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Crea Tu Personaje de Rune Slayer",
+        "description": "Comienza con una raza aleatoria en Rune Slayer y elige tu clase inicial. Cada una ofrece habilidades y estilos de juego únicos.",
+        "image": {
+          "src": "/imgs/features/character-creation.png"
+        }
+      },
+      {
+        "title": "Completa Misiones de Rune Slayer",
+        "description": "Acepta misiones de Rune Slayer de NPCs (signos de interrogación amarillos) o del tablón del Gremio de Aventureros para obtener recompensas.",
+        "image": {
+          "src": "/imgs/features/quests.png"
+        }
+      },
+      {
+        "title": "Domina los Sistemas de Juego de Rune Slayer",
+        "description": "Aprende las mecánicas de pesca, artesanía, domesticación de mascotas y combate de Rune Slayer para sobrevivir y prosperar en el mundo.",
+        "image": {
+          "src": "/imgs/features/systems.png"
+        }
+      },
+      {
+        "title": "Únete a la Comunidad de Rune Slayer",
+        "description": "Forma equipo con otros jugadores de Rune Slayer, únete a gremios y participa en PvP para convertirte en una leyenda.",
+        "image": {
+          "src": "/imgs/features/community.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Por Qué Rune Slayer Te Cautivará",
+    "description": "Elige sabiamente tu clase de personaje de Rune Slayer basándote en tu estilo de juego",
+    "items": [
+      {
+        "title": "Mundo Abierto Dinámico de Rune Slayer",
+        "description": "Explora diversos paisajes de Rune Slayer llenos de tesoros escondidos, criaturas peligrosas y vistas impresionantes",
+        "icon": "RiLandscapeLine"
+      },
+      {
+        "title": "Sistema de Progresión Profundo de Rune Slayer",
+        "description": "Desarrolla tu personaje de Rune Slayer a través de múltiples clases, habilidades y mejoras de equipo",
+        "icon": "RiSwordLine"
+      },
+      {
+        "title": "Combate Estratégico de Rune Slayer",
+        "description": "Domina el sistema de combate basado en habilidades de Rune Slayer donde el tiempo, la posición y la técnica importan",
+        "icon": "RiShieldLine"
+      },
+      {
+        "title": "Rica Economía de Artesanía de Rune Slayer",
+        "description": "Recolecta recursos en Rune Slayer, descubre recetas y forja equipo poderoso",
+        "icon": "RiHammerLine"
+      },
+      {
+        "title": "Emocionante Sistema de Mascotas de Rune Slayer",
+        "description": "Domestica más de 15 criaturas diferentes en Rune Slayer con habilidades únicas para ayudar en tus aventuras",
+        "icon": "RiEmotionLine"
+      },
+      {
+        "title": "Experiencia PvP Equilibrada de Rune Slayer",
+        "description": "Pon a prueba tus habilidades contra otros jugadores en encuentros de alto riesgo de Rune Slayer",
+        "icon": "RiSwordFill"
+      }
+    ]
+  },
+
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Preguntas Frecuentes Sobre Rune Slayer",
+    "description": "¿Tienes otra pregunta sobre Rune Slayer? Únete a nuestro Discord de Rune Slayer o visita el tablero Trello de la comunidad de Rune Slayer.",
+    "items": [
+      {
+        "title": "¿Cómo restablezco mi recompensa en Rune Slayer?",
+        "description": "Visita al NPC Lockmeier fuera de la Posada Wayshire en Rune Slayer para restablecer tu recompensa. Las recompensas bajas cuestan unas pocas monedas de plata, mientras que las recompensas más altas pueden costar varias monedas de oro."
+      },
+      {
+        "title": "¿Cuáles son las mejores razas para elegir en Rune Slayer?",
+        "description": "Aunque las razas en Rune Slayer se asignan inicialmente al azar, las razas de nivel superior incluyen Dullahan, Slime, Ailuran y Elf. Puedes volver a tirar tu raza de Rune Slayer por 150 Robux si lo deseas."
+      },
+      {
+        "title": "¿Cómo funciona el sistema de domesticación de mascotas en Rune Slayer?",
+        "description": "Diferentes mascotas de Rune Slayer requieren elementos específicos para domesticarlas. Por ejemplo, los Slimes necesitan Trozos de Slime, los Ciervos necesitan Manzanas y los Lobos necesitan Carne de Ciervo Cruda. Hay un tiempo de espera de 5 minutos entre intentos de domesticación en Rune Slayer, que se restablece al morir el jugador."
+      },
+      {
+        "title": "¿Cuál es la mejor clase para principiantes en Rune Slayer?",
+        "description": "El Sacerdote (nivel S) se considera la mejor clase general de Rune Slayer debido a sus poderosas habilidades de curación. Para principiantes enfocados en el combate en Rune Slayer, el Striker (nivel A) ofrece buen daño y capacidades PvP, mientras que el Arquero (nivel A) es excelente para el combate a distancia y el contenido PvE."
+      },
+      {
+        "title": "¿Cómo empiezo a pescar en Rune Slayer?",
+        "description": "Compra una caña de pescar y cebo de Simon El Pescador al sur de Wayshire en Rune Slayer. Equipa la caña, lanza tu línea y haz clic cuando veas ondas en la superficie del agua. Diferentes cebos de Rune Slayer tienen diferentes probabilidades de consumo."
+      },
+      {
+        "title": "¿Cómo funciona el sistema de artesanía en Rune Slayer?",
+        "description": "Los objetos básicos de cobre se pueden fabricar en el NPC herrero al este de Wayshire en Rune Slayer. Usa hornos para crear lingotes y mesas de artesanía para objetos avanzados. Las nuevas recetas se desbloquean a medida que descubres recursos en el mundo de Rune Slayer."
+      }
+    ]
+  },
+
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Rune Slayer",
+      "description": "Rune Slayer es un RPG de mundo abierto en Roblox donde los jugadores crean aliados y se fortalecen para sobrevivir en la naturaleza. ¡Experimenta Rune Slayer hoy!",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Rune Slayer"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • Rune Slayer Todos los derechos reservados.",
+    "nav": {
+      "items": [
+        {
+          "title": "Acerca de Rune Slayer",
+          "children": [
+            {
+              "title": "Características",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "Jugabilidad",
+              "url": "/#gameplay",
+              "target": "_self"
+            },
+            {
+              "title": "Comunidad",
+              "url": "/#community",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "Rune Slayer X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/runeslayergame",
+          "target": "_blank"
+        },
+        {
+          "title": "Rune Slayer Youtube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Rune Slayer Discord",
+          "icon": "RiDiscordFill",
+          "url": "https://discord.gg/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "Rune Slayer Roblox",
+          "icon": "SiRoblox",
+          "url": "https://roblox.com/games/runeslayer",
+          "target": "_blank"
+        }
+      ]
+    }
+  },
+  "team2": {
+    "title": "Clases de Personajes",
+    "subtitle": "Elige sabiamente tu clase de personaje según tu estilo de juego",
+    "roles": {
+      "archer": "Causante de Daño a Distancia",
+      "priest": "Sanador y Apoyo",
+      "thief": "DPS y Sigilo",
+      "magician": "Lanzador de Hechizos a Distancia",
+      "warrior": "Tanque y Primera Línea",
+      "striker": "Luchador Cuerpo a Cuerpo"
+    },
+    "characters": {
+      "archer": {
+        "name": "Arquero",
+        "description": "La clase más rota. Los Arqueros atacan a distancia, causan lluvia de flechas, y la especialización Domador de Bestias los hace extremadamente poderosos."
+      },
+      "priest": {
+        "name": "Sacerdote",
+        "description": "Puede hacer daño a distancia/cuerpo a cuerpo y curar. Curar a otros y a su mascota los pone en una liga propia. Un Sacerdote con una mascota poderosa es casi invencible."
+      },
+      "thief": {
+        "name": "Ladrón",
+        "description": "Rápido, letal, poderoso pero carece de defensa. Excelente para jugadores que pueden esquivar y parar. Mantente en las sombras y ataca en el momento adecuado."
+      },
+      "magician": {
+        "name": "Mago",
+        "description": "Poderosos lanzadores de hechizos a distancia, mejores en grupos. Cañones de cristal por sí solos - emparéjalos con guerreros o atacantes para mejores resultados."
+      },
+      "warrior": {
+        "name": "Guerrero",
+        "description": "Golpea fuerte y absorbe daño en la primera línea. Puede llevar armadura poderosa pero debe acercarse a la acción, lo que puede ser peligroso."
+      },
+      "striker": {
+        "name": "Atacante",
+        "description": "La clase menos deseable. Depende de la velocidad para entregar golpes de puño pero carece de defensa. Fácilmente eliminado por ataques poderosos. Necesita mejoras futuras."
+      }
+    }
+  }
+}

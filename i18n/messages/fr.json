@@ -1,0 +1,40 @@
+{
+  "team2": {
+    "title": "Classes de Personnages",
+    "subtitle": "Choisissez judicieusement votre classe de personnage selon votre style de jeu",
+    "roles": {
+      "archer": "Attaquant à Distance",
+      "priest": "Guérisseur & Soutien",
+      "thief": "DPS & Furtivité",
+      "magician": "Lanceur de Sorts à Distance",
+      "warrior": "Tank & Première Ligne",
+      "striker": "Combattant de Mêlée"
+    },
+    "characters": {
+      "archer": {
+        "name": "Archer",
+        "description": "La classe la plus déséquilibrée. Les archers attaquent à distance, provoquent des pluies de flèches, et la spécialisation Dompteur de Bêtes les rend surpuissants."
+      },
+      "priest": {
+        "name": "Prêtre",
+        "description": "Peut infliger des dégâts à distance/mêlée et soigner. Guérir les autres et leur familier les place dans une ligue à part. Un Prêtre avec un familier puissant est presque invincible."
+      },
+      "thief": {
+        "name": "Voleur",
+        "description": "Rapide, mortel, puissant mais manque de défense. Idéal pour les joueurs qui savent esquiver et parer. Restez dans l'ombre et frappez au bon moment."
+      },
+      "magician": {
+        "name": "Magicien",
+        "description": "Puissants lanceurs de sorts à distance, excellents en groupe. Canons de verre en solo - associez-les avec des guerriers ou des frappeurs pour de meilleurs résultats."
+      },
+      "warrior": {
+        "name": "Guerrier",
+        "description": "Frappe fort et encaisse les dégâts en première ligne. Peut porter une armure puissante mais doit s'approcher de l'action, ce qui peut être dangereux."
+      },
+      "striker": {
+        "name": "Striker",
+        "description": "Classe la moins désirable. S'appuie sur la vitesse pour porter des coups de poing mais manque de défense. Facilement éliminé par des attaques puissantes. Nécessite des améliorations futures."
+      }
+    }
+  }
+}

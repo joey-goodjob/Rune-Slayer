@@ -1,0 +1,295 @@
+{
+  "template": "rune-slayer",
+  "theme": "dark",
+  "header": {
+    "brand": {
+      "title": "룬 슬레이어",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "룬 슬레이어 게임 로고"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "룬 슬레이어 특징",
+          "url": "/#feature",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "룬 슬레이어 게임플레이",
+          "url": "/#gameplay",
+          "icon": "MdGames"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "지금 룬 슬레이어 플레이하기",
+        "url": "https://roblox.com/games/runeslayer",
+        "target": "_blank",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": false,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "룬 슬레이어에서 생존하고 성장하세요",
+    "highlight_text": "룬 슬레이어",
+    "description": "룬 슬레이어는 로블록스에서 제공하는 몰입형 오픈 월드 RPG입니다.<br/>룬 슬레이어에서 동맹을 맺고 더 강해져서 야생에서 생존하세요.",
+    "announcement": {
+      "label": "2025",
+      "title": "🎮 룬 슬레이어가 이제 로블록스에서 이용 가능합니다",
+      "url": "/#gameplay"
+    },
+
+    "show_happy_users": false,
+    "show_badge": false
+  },
+
+  "introduce": {
+    "name": "introduce",
+    "title": "룬 슬레이어 게임이란",
+    "label": "룬 슬레이어 소개",
+    "description": "룬 슬레이어는 로블록스에서 제공하는 몰입형 오픈 월드 RPG 경험으로, 플레이어들은 동맹을 맺고 위험한 야생에서 생존하기 위해 캐릭터를 강화합니다. 룬 슬레이어의 세계는 마스터한 사람에게 특별한 능력을 부여하는 신비로운 룬으로 가득 차 있습니다. 오늘 룬 슬레이어에 참여하세요!",
+    "image": {
+      "src": "imgs/1122.png"
+    },
+    "items": [
+      {
+        "title": "룬 슬레이어 캐릭터 개발",
+        "description": "각각 고유한 능력과 플레이 스타일을 가진 다양한, 종족과 클래스로 룬 슬레이어에서 독특한 캐릭터를 만드세요.",
+        "icon": "RiUserStarLine"
+      },
+      {
+        "title": "룬 슬레이어 오픈 월드 모험",
+        "description": "퀘스트, 몬스터, 숨겨진 보물로 가득한 거대한 룬 슬레이어 세계를 탐험하세요.",
+        "icon": "RiMapPinLine"
+      },
+      {
+        "title": "룬 슬레이어 복잡한 전투",
+        "description": "공격, 방어, 특수 능력을 사용하는 룬 슬레이어의 스킬 기반 전투 시스템을 마스터하세요.",
+        "icon": "RiSwordLine"
+      }
+    ]
+  },
+
+  "usage": {
+    "name": "gameplay",
+    "title": "룬 슬레이어 플레이 방법",
+    "description": "룬 슬레이어의 기본을 마스터하고 네 단계로 전설적인 룬 슬레이어 모험가가 되세요:",
+    "image": {
+      "src": "/imgs/features/gameplay.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "룬 슬레이어 캐릭터 생성",
+        "description": "룬 슬레이어에서 랜덤 종족으로 시작하고 시작 클래스를 선택하세요. 각 클래스는 고유한 능력과 플레이 스타일을 제공합니다.",
+        "image": {
+          "src": "/imgs/features/character-creation.png"
+        }
+      },
+      {
+        "title": "룬 슬레이어 퀘스트 완료",
+        "description": "NPC(노란색 물음표) 또는 모험가 길드 게시판에서 룬 슬레이어 퀘스트를 수행하여 보상을 받으세요.",
+        "image": {
+          "src": "/imgs/features/quests.png"
+        }
+      },
+      {
+        "title": "룬 슬레이어 게임 시스템 마스터",
+        "description": "세계에서 생존하고 번영하기 위해 룬 슬레이어의 낚시, 제작, 펫 길들이기, 전투 메커니즘을 배우세요.",
+        "image": {
+          "src": "/imgs/features/systems.png"
+        }
+      },
+      {
+        "title": "룬 슬레이어 커뮤니티 참여",
+        "description": "다른 룬 슬레이어 플레이어들과 팀을 이루고, 길드에 가입하고, PvP에 참여하여 전설이 되세요.",
+        "image": {
+          "src": "/imgs/features/community.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "룬 슬레이어가 당신을 사로잡는 이유",
+    "description": "당신의 플레이 스타일에 맞게 룬 슬레이어 캐릭터 클래스를 현명하게 선택하세요",
+    "items": [
+      {
+        "title": "룬 슬레이어 역동적인 오픈 월드",
+        "description": "숨겨진 보물, 위험한 생물, 숨막히는 광경으로 가득한 다양한 룬 슬레이어 풍경을 탐험하세요",
+        "icon": "RiLandscapeLine"
+      },
+      {
+        "title": "룬 슬레이어 깊은 진행 시스템",
+        "description": "여러 클래스, 스킬, 장비 업그레이드를 통해 룬 슬레이어 캐릭터를 발전시키세요",
+        "icon": "RiSwordLine"
+      },
+      {
+        "title": "룬 슬레이어 전략적 전투",
+        "description": "타이밍, 위치, 기술이 중요한 룬 슬레이어의 스킬 기반 전투 시스템을 마스터하세요",
+        "icon": "RiShieldLine"
+      },
+      {
+        "title": "룬 슬레이어 풍부한 제작 경제",
+        "description": "룬 슬레이어에서 자원을 수집하고, 레시피를 발견하고, 강력한 장비를 제작하세요",
+        "icon": "RiHammerLine"
+      },
+      {
+        "title": "룬 슬레이어 스릴 넘치는 펫 시스템",
+        "description": "모험을 도울 수 있는 고유한 능력을 가진 15가지 이상의 생물을 룬 슬레이어에서 길들이세요",
+        "icon": "RiEmotionLine"
+      },
+      {
+        "title": "룬 슬레이어 균형 잡힌 PvP 경험",
+        "description": "높은 판돈의 룬 슬레이어 교전에서 다른 플레이어들과 실력을 시험해보세요",
+        "icon": "RiSwordFill"
+      }
+    ]
+  },
+
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "룬 슬레이어에 대한 자주 묻는 질문",
+    "description": "룬 슬레이어에 대한 다른 질문이 있으신가요? 룬 슬레이어 디스코드에 가입하거나 룬 슬레이어 커뮤니티 트렐로 보드를 방문하세요.",
+    "items": [
+      {
+        "title": "룬 슬레이어에서 현상금을 리셋하려면 어떻게 해야 하나요?",
+        "description": "룬 슬레이어의 웨이셔 여관 밖에 있는 록마이어 NPC를 방문하여 현상금을 리셋하세요. 낮은 현상금은 몇 개의 실버 코인이 들지만, 높은 현상금은 여러 개의 골드 코인이 들 수 있습니다."
+      },
+      {
+        "title": "룬 슬레이어에서 선택할 수 있는 최고의 종족은 무엇인가요?",
+        "description": "룬 슬레이어의 종족은 처음에 무작위로 배정되지만, 최상위 종족으로는 둘러한, 슬라임, 아일루란, 엘프가 있습니다. 원하신다면 150 로벅스로 룬 슬레이어 종족을 다시 굴릴 수 있습니다."
+      },
+      {
+        "title": "룬 슬레이어의 펫 길들이기 시스템은 어떻게 작동하나요?",
+        "description": "다양한 룬 슬레이어 펫들은 길들이기 위해 특정 아이템이 필요합니다. 예를 들어, 슬라임은 슬라임 덩어리, 사슴은 사과, 늑대는 생 사슴 고기가 필요합니다. 룬 슬레이어에서는 길들이기 시도 사이에 5분의 쿨다운이 있으며, 플레이어가 사망하면 리셋됩니다."
+      },
+      {
+        "title": "룬 슬레이어 초보자에게 가장 좋은 클래스는 무엇인가요?",
+        "description": "프리스트(S등급)는 강력한 치유 능력 때문에, 룬 슬레이어에서 전체적으로 가장 좋은 클래스로 간주됩니다. 전투 중심의 초보자에게는 룬 슬레이어에서 스트라이커(A등급)가 좋은 대미지와 PvP 능력을 제공하고, 아처(A등급)는 원거리 전투와 PvE 콘텐츠에 탁월합니다."
+      },
+      {
+        "title": "룬 슬레이어에서 낚시를 시작하려면 어떻게 해야 하나요?",
+        "description": "룬 슬레이어의 웨이셔 남쪽에 있는 어부 사이먼에게서 낚싯대와 미끼를 구입하세요. 낚싯대를 장착하고, 라인을 던진 후, 물 표면에 파문이 보일 때 클릭하세요. 다양한 룬 슬레이어 미끼는 소비 확률이 다릅니다."
+      },
+      {
+        "title": "룬 슬레이어의 제작 시스템은 어떻게 작동하나요?",
+        "description": "기본적인 구리 아이템은 룬 슬레이어의 웨이셔 동쪽에 있는, 대장장이 NPC에서 제작할 수 있습니다. 용광로를 사용하여 주괴를 만들고 제작 테이블에서 고급 아이템을 만드세요. 룬 슬레이어 세계에서 자원을 발견하면 새로운 레시피가 해금됩니다."
+      }
+    ]
+  },
+
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "룬 슬레이어",
+      "description": "룬 슬레이어는 로블록스의 오픈 월드 RPG로, 플레이어들이 동맹을 맺고 야생에서 생존하기 위해 더 강해집니다. 오늘 룬 슬레이어를 경험해보세요!",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "룬 슬레이어"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • 룬 슬레이어 모든 권리 보유.",
+    "nav": {
+      "items": [
+        {
+          "title": "룬 슬레이어 소개",
+          "children": [
+            {
+              "title": "특징",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "게임플레이",
+              "url": "/#gameplay",
+              "target": "_self"
+            },
+            {
+              "title": "커뮤니티",
+              "url": "/#community",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "룬 슬레이어 X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/runeslayergame",
+          "target": "_blank"
+        },
+        {
+          "title": "룬 슬레이어 Youtube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "룬 슬레이어 Discord",
+          "icon": "RiDiscordFill",
+          "url": "https://discord.gg/runeslayer",
+          "target": "_blank"
+        },
+        {
+          "title": "룬 슬레이어 Roblox",
+          "icon": "SiRoblox",
+          "url": "https://roblox.com/games/runeslayer",
+          "target": "_blank"
+        }
+      ]
+    }
+  },
+  "team2": {
+    "title": "캐릭터 클래스",
+    "subtitle": "당신의 플레이 스타일에 맞게 캐릭터 클래스를 현명하게 선택하세요",
+    "roles": {
+      "archer": "원거리 대미지 딜러",
+      "priest": "힐러 & 서포터",
+      "thief": "DPS & 스텔스",
+      "magician": "원거리 주문 시전자",
+      "warrior": "탱커 & 전방 라인",
+      "striker": "근접 전투원"
+    },
+    "characters": {
+      "archer": {
+        "name": "아처",
+        "description": "가장 밸런스가 깨진 클래스. 아처는 원거리에서 공격하고, 화살비를 내리며, 비스트 테이머 특화로 압도적인 힘을 가집니다."
+      },
+      "priest": {
+        "name": "프리스트",
+        "description": "원거리/근접 대미지를 주고 치유할 수 있습니다. 다른 사람과 펫을 치유하는 능력이 그들만의 리그를 만듭니다. 강력한 펫을 가진 프리스트는 거의 죽일 수 없습니다."
+      },
+      "thief": {
+        "name": "시프",
+        "description": "빠르고, 치명적이며, 강력하지만 방어력이 부족합니다. 회피와 패리를 할 수 있는 플레이어에게 좋습니다. 그림자에 숨어 적절한 순간에 공격하세요."
+      },
+      "magician": {
+        "name": "매지션",
+        "description": "그룹에서 가장 좋은 강력한 원거리 주문 시전자. 혼자서는 유리 대포 같습니다 - 최상의 결과를 위해 워리어나 스트라이커와 짝을 이루세요."
+      },
+      "warrior": {
+        "name": "워리어",
+        "description": "전방에서 강하게 타격하고 데미지를 버팁니다. 강력한 갑옷을 착용할 수 있지만, 위험할 수 있는 전투에 가까이 가야 합니다."
+      },
+      "striker": {
+        "name": "스트라이커",
+        "description": "가장 바람직하지 않은 클래스. 주먹 타격을 가하기 위해 속도에 의존하지만, 방어력이 부족합니다. 강력한 공격으로 쉽게 제거됩니다. 미래의 버프가 필요합니다."
+      }
+    }
+  }
+}

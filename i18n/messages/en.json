@@ -112,5 +112,43 @@
       "pending": "Pending",
       "completed": "Completed"
     }
+  },
+  "team2": {
+    "title": "Character Classes",
+    "subtitle": "Choose your character class wisely based on your playstyle",
+    "roles": {
+      "archer": "Ranged Damage Dealer",
+      "priest": "Healer & Support",
+      "thief": "DPS & Stealth",
+      "magician": "Ranged Spell-Caster",
+      "warrior": "Tank & Front-Line",
+      "striker": "Melee Fighter"
+    },
+    "characters": {
+      "archer": {
+        "name": "Archer",
+        "description": "The most broken class. Archers attack from range, cause arrow rain, and Beast Tamer specialization makes them overpowered."
+      },
+      "priest": {
+        "name": "Priest",
+        "description": "Can do ranged/melee damage and heal. Healing others and their pet puts them in a league of their own. A Priest with a powerful pet is almost unkillable."
+      },
+      "thief": {
+        "name": "Thief",
+        "description": "Quick, deadly, powerful but lacks defense. Great for players who can dodge and parry. Stick to shadows and strike at the right moment."
+      },
+      "magician": {
+        "name": "Magician",
+        "description": "Powerful ranged spell-slingers best in groups. Glass cannons on their own - pair with warriors or strikers for best results."
+      },
+      "warrior": {
+        "name": "Warrior",
+        "description": "Hit hard and tank damage at the front line. Can wear powerful armor but must get close to action, which can be dangerous."
+      },
+      "striker": {
+        "name": "Striker",
+        "description": "Least desirable class. Relies on speed to deliver fist blows but lacks defense. Easily taken out by powerful attacks. Needs future buffs."
+      }
+    }
   }
 }
