@@ -12,15 +12,7 @@ export const localeNames: any = {
   fr: "Français",
   de: "Deutsch",
   es: "Español",
-  pt: "Português",
-  it: "Italiano",
-  id: "Bahasa Indonesia",
-  vi: "Tiếng Việt",
-  th: "ไทย",
-  tr: "Türkçe",
-  ar: "العربية",
-  fa: "فارسی",
-  hi: "हिन्दी",
+  nl: "Nederlands",
 };
 
 export const defaultLocale = "en";
