@@ -1,7 +1,105 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<!-- <?xml version='1.0' encoding='utf-8' standalone='yes'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://shipany.ai/</loc>
     <lastmod>2024-12-24T10:00:00+00:00</lastmod>
   </url>
+</urlset> -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- 主页 -->
+  <url>
+    <loc>https://www.runeslayer.co/</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.runeslayer.co/en"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://www.runeslayer.co/zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://www.runeslayer.co/ja"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://www.runeslayer.co/ko"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.runeslayer.co/ru"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.runeslayer.co/fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.runeslayer.co/de"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.runeslayer.co/es"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://www.runeslayer.co/nl"/>
+  </url>
+  
+  <!-- 多语言页面 - 英语 -->
+  <url>
+    <loc>https://www.runeslayer.co/en</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+  <!-- 多语言页面 - 简体中文 -->
+  <url>
+    <loc>https://www.runeslayer.co/zh</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+  <!-- 多语言页面 - 日语 -->
+  <url>
+    <loc>https://www.runeslayer.co/ja</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+  <!-- 多语言页面 - 韩语 -->
+  <url>
+    <loc>https://www.runeslayer.co/ko</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+  <!-- 多语言页面 - 俄语 -->
+  <url>
+    <loc>https://www.runeslayer.co/ru</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+  <!-- 多语言页面 - 法语 -->
+  <url>
+    <loc>https://www.runeslayer.co/fr</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+  <!-- 多语言页面 - 德语 -->
+  <url>
+    <loc>https://www.runeslayer.co/de</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+  <!-- 多语言页面 - 西班牙语 -->
+  <url>
+    <loc>https://www.runeslayer.co/es</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+  <!-- 多语言页面 - 荷兰语 -->
+  <url>
+    <loc>https://www.runeslayer.co/nl</loc>
+    <lastmod>2025-03-03T12:00:00+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+
+
 </urlset>
