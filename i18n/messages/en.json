@@ -150,5 +150,230 @@
         "description": "Least desirable class. Relies on speed to deliver fist blows but lacks defense. Easily taken out by powerful attacks. Needs future buffs."
       }
     }
+  },
+
+  "races": {
+    "title": "All Rune Slayer Races",
+    "subtitle": "Ready to start playing Rune Slayer, here are all the Races in the game and their unique passives!",
+    "labels": {
+      "rollChance": "Roll Chance",
+      "passive": "Passive",
+      "active": "Active",
+      "requirement": "Requirement"
+    },
+    "jumpToTier": "Jump to Tier List",
+    "list": [
+      {
+        "id": "human",
+        "name": "Human",
+        "avatar": "/images/races/human.png",
+        "rollChance": 25.3,
+        "tier": "B",
+        "description": "Humans are highly adaptable, with an exceptional ability to sustain their resources, making them well-suited for any scenario.",
+        "passive": [
+          {
+            "name": "Tenacity",
+            "description": "When below 50% hp gain 15% dmg buff and 15% dmg reduction"
+          },
+          {
+            "name": "Ghoul Slayer",
+            "description": "You deal more dmg to the undead"
+          },
+          {
+            "name": "Hunger efficiency",
+            "description": "+1 Focus efficiency, +2 Mana efficiency"
+          }
+        ],
+        "active": {
+          "name": "Surge",
+          "description": "Harness your hunger to fuel a powerful burst of stamina.",
+          "requirement": "50 Hunger"
+        }
+      },
+      {
+        "id": "elf",
+        "name": "Elf",
+        "avatar": "/images/races/elf.png",
+        "rollChance": 25.3,
+        "tier": "A",
+        "description": "Elves are expert hunters, boasting a superior capacity for precision and endurance compared to other races. Masters of stealth, they excel at remaining unseen.",
+        "passive": [
+          {
+            "name": "Strider",
+            "description": "+3% speed, +10% CD reduction, +10% Stealth"
+          },
+          {
+            "name": "Mana affinity",
+            "description": "10% more mana"
+          },
+          {
+            "name": "Focus affinity",
+            "description": "5% more focus"
+          }
+        ],
+        "active": {
+          "name": "Duskwalk",
+          "description": "Become invisible temporarily",
+          "requirement": "Lv.15 Skill"
+        }
+      },
+      {
+        "id": "orc",
+        "name": "Orc",
+        "avatar": "/images/races/orc.png",
+        "rollChance": 25.3,
+        "tier": "C",
+        "description": "Orcs possess incredible vitality and resilience, allowing them to endure harsh conditions that would debilitate other races.",
+        "passive": [
+          {
+            "name": "Robust Vitality",
+            "description": "+10% base health regeneration"
+          },
+          {
+            "name": "Voracious Appetite",
+            "description": "+15% maximum hunger"
+          },
+          {
+            "name": "Heat Tolerance",
+            "description": "+20% heat resistance"
+          }
+        ],
+        "active": {
+          "name": null,
+          "description": null,
+          "requirement": null
+        }
+      },
+      {
+        "id": "ailuran",
+        "name": "Ailuran",
+        "avatar": "/images/races/ailuran.png",
+        "rollChance": 10.0,
+        "tier": "A",
+        "description": "Catfolk known for their agility and natural dexterity. Their heightened reflexes and balance make them exceptional hunters and scouts.",
+        "passive": [
+          {
+            "name": "Feline Grace",
+            "description": "+8% movement speed"
+          },
+          {
+            "name": "Thermal Adaptation",
+            "description": "+10% fire resistance, +25% heat/cold resistance"
+          },
+          {
+            "name": "Perfect Landing",
+            "description": "+25% jump height, -15% fall damage"
+          }
+        ],
+        "active": {
+          "name": null,
+          "description": null,
+          "requirement": null
+        }
+      },
+      {
+        "id": "slime",
+        "name": "Slime",
+        "avatar": "/images/races/slime.png",
+        "rollChance": 6.0,
+        "tier": "A",
+        "description": "Amorphous beings with incredible adaptability. Their malleable bodies can absorb and repurpose various substances encountered in the world.",
+        "passive": [
+          {
+            "name": "Fluid Form",
+            "description": "-7.5% magic resistance, -7.5% fire resistance, +25% status ailment resistance"
+          },
+          {
+            "name": "Mitosis",
+            "description": "Chance to spawn smaller slimes when hit"
+          }
+        ],
+        "active": {
+          "name": "Viscous Blast",
+          "description": "Release a powerful slime wave at the cost of some health",
+          "requirement": "10 Mana"
+        },
+        "features": [
+          {
+            "name": "Toxic Evolution",
+            "description": "Transform into deadly black ooze with enhanced toxicity and improved 'Viscous Blast'"
+          },
+          {
+            "name": "Slime Burst",
+            "description": "Enemies drop slime upon death"
+          },
+          {
+            "name": "Absorption",
+            "description": "Slime hitting targets provides healing, absorbed slime restores mana"
+          }
+        ]
+      },
+      {
+        "id": "halfgolem",
+        "name": "Half Golem",
+        "avatar": "/images/races/half-golem.png",
+        "rollChance": 6.0,
+        "tier": "B",
+        "description": "Part flesh, part stone constructs. Their partially mineral bodies grant them exceptional durability at the cost of mobility.",
+        "passive": [
+          {
+            "name": "Stone Flesh",
+            "description": "-5% maximum speed, +5% damage reduction, +10 maximum weight capacity, +25% stability"
+          }
+        ],
+        "active": {
+          "name": null,
+          "description": null,
+          "requirement": null
+        },
+        "racialUpgrades": [
+          {
+            "option": 1,
+            "name": "Living Fortress",
+            "effects": "-10% speed, +10% damage reduction, +5% magic resistance, +25 maximum weight capacity, +25% stability"
+          },
+          {
+            "option": 2,
+            "name": "Stone Striker",
+            "effects": "+12% attack power, +6% speed, -10% damage reduction, +25% stability"
+          },
+          {
+            "option": 3,
+            "name": "Runic Vessel",
+            "effects": "+12% magic power, +6% speed, -10% damage reduction, +25% stability"
+          }
+        ]
+      },
+      {
+        "id": "dullahan",
+        "name": "Dullahan",
+        "avatar": "/images/races/dullahan.png",
+        "rollChance": 2.0,
+        "tier": "S",
+        "description": "Headless undead warriors bound to unlife by ancient curses. Their spectral nature grants them unique abilities and resilience.",
+        "passive": [
+          {
+            "name": "Soul Harvest",
+            "description": "Restore a small amount of health when killing enemies"
+          },
+          {
+            "name": "Undead Resilience",
+            "description": "+25% stability, +25% cold resistance, -20% holy resistance"
+          }
+        ],
+        "active": [
+          {
+            "name": "Detached Perception",
+            "description": "Remove your head to use as a viewing tool",
+            "requirement": null
+          },
+          {
+            "name": "Reaper's Charge",
+            "description": "Dash forward with a scythe swing",
+            "requirement": "Lv.15 Skill"
+          }
+        ]
+      }
+    ]
   }
 }

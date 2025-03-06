@@ -13,13 +13,33 @@
     "nav": {
       "items": [
         {
-          "title": "Rune Slayer Features",
-          "url": "/#feature",
+          "title": "Armors",
+          "url": "/armors/",
           "icon": "HiOutlineSparkles"
         },
         {
-          "title": "Rune Slayer Gameplay",
-          "url": "/#gameplay",
+          "title": "Classes",
+          "url": "/classes/",
+          "icon": "Classes"
+        },
+        {
+          "title": "Races",
+          "url": "/races/",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "Runes",
+          "url": "/runes/",
+          "icon": "MdGames"
+        },
+        {
+          "title": "Tools",
+          "url": "/tools/",
+          "icon": "HiOutlineSparkles"
+        },
+        {
+          "title": "weapons",
+          "url": "/weapons/",
           "icon": "MdGames"
         }
       ]
@@ -33,8 +53,8 @@
         "icon": "RiArrowRightUpLine"
       }
     ],
-    "show_sign": true,
-    "show_theme": true,
+    "show_sign": false,
+    "show_theme": false,
     "show_locale": true
   },
   "hero": {
@@ -291,5 +311,111 @@
         "description": "Least desirable class. Relies on speed to deliver fist blows but lacks defense. Easily taken out by powerful attacks. Needs future buffs."
       }
     }
+  },
+
+  "weaponData": {
+    "title": "Rune Slayer Weapon System and Forging Guide",
+    "description": "Rune Slayer game offers a rich and diverse weapon selection system, players can choose different combat tools such as swords, spears, great axes, bows, or staffs according to their preferences, shaping their unique combat style.",
+    "raritySystem": ["Common", "Uncommon", "Rare", "Legendary", "Mythical"],
+    "weaponTypes": [
+      {
+        "name": "Staff",
+        "description": "Preferred by spellcasters, enhances magical power",
+        "weapons": [
+          {
+            "name": "Oak Staff",
+            "level": 1,
+            "damage": {
+              "physical": 4
+            },
+            "attributes": ["Intelligence+4"],
+            "crafting": ["Oak×4"]
+          }
+        ]
+      },
+      {
+        "name": "Shield",
+        "description": "Provides protection and blocking ability",
+        "weapons": [
+          {
+            "name": "Splinted Shield",
+            "level": 10,
+            "armor": 46,
+            "attributes": ["Posture+8"],
+            "crafting": ["Splinter×2", "Pine Wood×2", "Iron Ingot×4"]
+          }
+        ]
+      },
+      {
+        "name": "Gauntlet",
+        "description": "Enhances unarmed combat efficiency",
+        "weapons": [
+          {
+            "name": "Light Leather Gloves",
+            "level": 1,
+            "damage": {
+              "physical": 4
+            },
+            "description": "Lightweight leather gloves"
+          }
+        ]
+      },
+      {
+        "name": "Bow",
+        "description": "Ranged precision strikes",
+        "weapons": [
+          {
+            "name": "Oak Bow",
+            "level": 1,
+            "damage": {
+              "physical": 3
+            },
+            "crafting": ["Oak×4"]
+          }
+        ]
+      },
+      {
+        "name": "Sword",
+        "description": "Balanced melee weapon",
+        "weapons": [
+          {
+            "name": "Copper Sword",
+            "level": 1,
+            "damage": {
+              "physical": 5
+            },
+            "description": "Basic sword forged from copper metal"
+          }
+        ]
+      },
+      {
+        "name": "Dagger",
+        "description": "Fast and flexible short weapon",
+        "weapons": [
+          {
+            "name": "Copper Dagger",
+            "level": 1,
+            "damage": {
+              "physical": 3
+            },
+            "description": "Short blade made of copper"
+          }
+        ]
+      },
+      {
+        "name": "Greatsword",
+        "description": "Heavy two-handed weapon",
+        "weapons": [
+          {
+            "name": "Copper Greatsword",
+            "level": 1,
+            "damage": {
+              "physical": 8
+            },
+            "crafting": ["Copper Ingot×4", "Light Leather×2"]
+          }
+        ]
+      }
+    ]
   }
 }
