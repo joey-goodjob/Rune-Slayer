@@ -92,6 +92,61 @@
     <changefreq>daily</changefreq>
   </url>
   
+    <!-- 装备页面 -->
+  <url>
+    <loc>https://www.runeslayer.co/armors</loc>
+    <lastmod>2025-03-07T12:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <!-- 职业页面 -->
+  <url>
+    <loc>https://www.runeslayer.co/classes</loc>
+    <lastmod>2025-03-07T12:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <!-- 帖子页面 -->
+  <url>
+    <loc>https://www.runeslayer.co/posts</loc>
+    <lastmod>2025-03-07T12:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  
+  <!-- 种族页面 -->
+  <url>
+    <loc>https://www.runeslayer.co/races</loc>
+    <lastmod>2025-03-07T12:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <!-- 符文页面 -->
+  <url>
+    <loc>https://www.runeslayer.co/runes</loc>
+    <lastmod>2025-03-07T12:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <!-- 工具页面 -->
+  <url>
+    <loc>https://www.runeslayer.co/tools</loc>
+    <lastmod>2025-03-07T12:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  <!-- 武器页面 -->
+  <url>
+    <loc>https://www.runeslayer.co/weapons</loc>
+    <lastmod>2025-03-07T12:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+  </url>
 
 
 </urlset>

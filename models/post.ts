@@ -88,22 +88,24 @@ export async function getAllPosts(
 }
 
 export async function getPostsByLocale(
-  locale: string,
-  page: number = 1,
-  limit: number = 50
+  locale: string, // 接受一个字符串类型的参数 locale，代表语言或地区信息
+  page: number = 1, // 接受一个数字类型的参数 page, 默认为 1，用于分页控制
+  limit: number = 50 // 接受一个数字类型的参数 limit，默认为 50，用于限制每页返回的记录数
 ): Promise<Post[]> {
-  const supabase = getSupabaseClient();
-  const { data, error } = await supabase
-    .from("posts")
-    .select("*")
-    .eq("locale", locale)
-    .eq("status", PostStatus.Online)
-    .order("created_at", { ascending: false })
-    .range((page - 1) * limit, page * limit - 1);
+  // 返回一个 Promise 对象，该 Promise 解析为一个 Post 类型的数组
+  const supabase = getSupabaseClient(); // 调用 getSupabaseClient 函数获取 Supabase 客户端实例
+  const { data, error } = await supabase // 使用 Supabase 客户端查询数据库
+    .from("posts") // 指定查询的表名为 "posts"
+    .select("*") // 选择所有列
+    .eq("locale", locale) // 添加一个条件，过滤掉 locale 不等于传入参数的记录
+    .eq("status", PostStatus.Online) // 添加一个条件，过滤掉 status 不等于 Online 的记录
+    .order("created_at", { ascending: false }) // 按照 created_at 列进行降序排序
+    .range((page - 1) * limit, page * limit - 1); // 计算分页范围，从 (page - 1) * limit 到 page * limit - 1
 
   if (error) {
-    return [];
+    // 如果查询过程中出现错误
+    return []; // 返回一个空数组
   }
 
-  return data;
+  return data; // 否则返回查询到的数据
 }
