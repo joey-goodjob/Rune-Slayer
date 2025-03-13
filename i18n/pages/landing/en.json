@@ -13,6 +13,12 @@
     "nav": {
       "items": [
         {
+          "title": "Blog ✨",
+          "url": "/posts/",
+          "icon": "MdGames",
+          "highlight": true
+        },
+        {
           "title": "Armors",
           "url": "/armors/",
           "icon": "HiOutlineSparkles"
@@ -54,7 +60,7 @@
       }
     ],
     "show_sign": false,
-    "show_theme": false,
+    "show_theme": true,
     "show_locale": true
   },
   "hero": {
