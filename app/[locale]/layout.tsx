@@ -54,6 +54,13 @@ export default async function RootLayout({
             })(window, document, "clarity", "script", "qnlkrop8f7");
           `}
         </Script>
+        <Script
+          id="google-adsense"
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6389683177936353"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
       </head>
       <body
         className={cn(
