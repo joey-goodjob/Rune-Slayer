@@ -148,5 +148,52 @@
     <changefreq>weekly</changefreq>
   </url>
 
+  <!-- 博客文章 - 新手指南 -->
+  <url>
+    <loc>https://www.runeslayer.co/posts/rune-slayer-beginner-guide</loc>
+    <lastmod>2025-03-15T12:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- 博客文章 - 最佳法师构建 -->
+  <url>
+    <loc>https://www.runeslayer.co/posts/The-Best-Mage-Build-In-Rune-Slayer</loc>
+    <lastmod>2025-03-15T12:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- 博客文章 - 从新手到大师刺客 -->
+  <url>
+    <loc>https://www.runeslayer.co/posts/From-Novice-to-Master-Assassin</loc>
+    <lastmod>2025-03-15T12:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- 博客文章 - 最佳盗贼构建 -->
+  <url>
+    <loc>https://www.runeslayer.co/posts/The-Best-Thief-Build-Solo-Progression-In-Rune-Slayer</loc>
+    <lastmod>2025-03-15T12:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- 博客文章 - 最佳忍者构建 -->
+  <url>
+    <loc>https://www.runeslayer.co/posts/The-Best-Ninja-Build-In-Rune-Slayer</loc>
+    <lastmod>2025-03-15T12:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  
+  <!-- 博客文章 - 最佳刺客构建 -->
+  <url>
+    <loc>https://www.runeslayer.co/posts/The-Best-Assassin-Build-In-Rune-Slayer</loc>
+    <lastmod>2025-03-15T12:00:00+00:00</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
 
 </urlset>
