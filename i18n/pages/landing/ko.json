@@ -220,6 +220,11 @@
               "title": "커뮤니티",
               "url": "/#community",
               "target": "_self"
+            },
+            {
+              "title": "AI Song Generator",
+              "url": "https://aisonggenerator.online/",
+              "target": "_blank"
             }
           ]
         }

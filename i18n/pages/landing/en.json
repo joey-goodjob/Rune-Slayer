@@ -246,6 +246,11 @@
               "title": "Community",
               "url": "/#community",
               "target": "_self"
+            },
+            {
+              "title": "AI Song Generator",
+              "url": "https://aisonggenerator.online/",
+              "target": "_blank"
             }
           ]
         }
